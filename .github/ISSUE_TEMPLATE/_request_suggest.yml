@@ -18,8 +18,6 @@ body:
         - Icon enhancement
         - Documentation change
         - Other
-      validations:
-        required: true
   - type: textarea
     id: info
     attributes:
