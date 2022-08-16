@@ -25,7 +25,7 @@ body:
       placeholder: ex. Please add a dark version for the Homarr icon.
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: icon
     attributes:
       label: Icon(s)
