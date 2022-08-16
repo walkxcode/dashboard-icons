@@ -37,6 +37,8 @@ There's multiple Dashboards available. Here are some of the popular ones.
 
 ## Installation
 
+**TIP! You can access Dashboard Icons online, faster, by using `https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/example.png`**
+
 To download an icon, simple `Right click > Save image`.
 
 For non-desktop operating systems, or people that prefer to use terminal.
