@@ -17,7 +17,6 @@ body:
         - Icon request
         - Icon enhancement
         - Documentation change
-        - Other
   - type: textarea
     id: info
     attributes:
