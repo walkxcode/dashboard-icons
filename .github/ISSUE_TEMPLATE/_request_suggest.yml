@@ -12,7 +12,7 @@ body:
     id: type
     attributes:
       label: Type
-      description: Choose one of the options below which best descibes your issue.
+      description: Choose the option below which best descibes your issue.
       options:
         - Icon request
         - Icon enhancement
