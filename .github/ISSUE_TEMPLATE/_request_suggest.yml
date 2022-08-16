@@ -21,8 +21,16 @@ body:
     id: info
     attributes:
       label: Info
-      description: Place any relevant information here. Links to the icons you want to request, the documentation changes you want to see, etc.
-      placeholder: ex. https://example.com/logo.png
+      description: Place any relevant information here. Information about the icons you want to request, the documentation changes you want to see, etc.
+      placeholder: ex. Please add a dark version for the Homarr icon.
+    validations:
+      required: true
+  - type: input
+    id: icon
+    attributes:
+      label: Icon(s)
+      description: Upload your icons here. You can do this by Copy—Pasting or Drag—and—Dropping the images.
+      placeholder: SVG and PNG accepted!
     validations:
       required: false
   
