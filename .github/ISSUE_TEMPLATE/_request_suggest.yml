@@ -1,0 +1,31 @@
+name: ⚡️ Requests & Suggestions
+about: Suggest an icon or request changes
+title: "⚡ — *put a quick title describing your issue here*"
+labels: ⚡️ Requests & Suggestions
+assignees: WalkxCode
+body:
+  - type: markdown
+    attributes:
+      value: |
+        *Thank you in advance for taking the time to fill out this Requests & Suggestions form!*
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      description: Choose one of the options below which best descibes your issue.
+      options:
+        - Icon request
+        - Icon enhancement
+        - Documentation change
+        - Other
+      validations:
+        required: true
+  - type: textarea
+    id: info
+    attributes:
+      label: Info
+      description: Place any relevant information here. Links to the icons you want to request, the documentation changes you want to see, etc.
+      placeholder: ex. https://example.com/logo.png
+    validations:
+      required: false
+  
