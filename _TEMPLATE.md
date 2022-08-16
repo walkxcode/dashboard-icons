@@ -41,11 +41,11 @@ To download an icon, simple `Right click > Save image`.
 
 For non-desktop operating systems, or people that prefer to use terminal.
 ```sh
-$ curl https://raw.githubusercontent.com/walkxhub/dashboard-icons/master/png/example.png > example.png
+$ curl https://raw.githubusercontent.com/walkxcode/dashboard-icons/master/png/example.png > example.png
 ```
 or
 ```sh
-$ wget https://raw.githubusercontent.com/walkxhub/dashboard-icons/master/png/example.png - O example.png
+$ wget https://raw.githubusercontent.com/walkxcode/dashboard-icons/master/png/example.png - O example.png
 ```
 
 # Icons
