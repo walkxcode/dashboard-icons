@@ -1,0 +1,6 @@
+{
+    "schedule": "daily", // daily|weekly|monthly
+    "prTitle" : "✨ Compresses Images",        
+    "prBody" : " Text before optimization ratio {optimization_ratio} Text after optimization ratio 
+                 Text before optimization details {optimization_details} Text after optimization details",
+}
