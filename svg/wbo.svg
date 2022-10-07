@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="b" x1="56" x2="8.5" y1="246" y2="274" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5c86ab" stop-opacity=".31" offset="0"/>
+   <stop stop-color="#feffff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="translate(0 -233)" d="m32 278v9.4h-11 21-10m-24-44h48c1.9 0 3.4 1.5 3.4 3.4v28c0 1.9-1.5 3.4-3.4 3.4h-48c-1.9 0-3.4-1.5-3.4-3.4v-28c0-1.9 1.5-3.4 3.4-3.4z" fill="url(#b)" fill-rule="evenodd" stroke="#000" stroke-width="1.3"/>
+ <g transform="translate(88 -214)" fill="none" stroke="#5c86ab">
+  <rect x="-43" y="237" width="8.7" height="14" ry="3.1" stroke-width="2.6"/>
+  <path d="m-57 248v-20m3.1 9.4h2.5c1.7 0 3.1 1.4 3.1 3.1v8c0 1.7-1.4 3.1-3.1 3.1h-2.5c-1.7 0-3.1-1.4-3.1-3.1v-8c0-1.7 1.4-3.1 3.1-3.1z" stroke-linecap="round" stroke-width="2.4"/>
+  <path d="m-62 239v9.4c0 1.7-1.4 3.1-3.1 3.1h-2.5c-1.7 0-3.1-1.4-3.1-3.1m3e-6 -9.4v9.4c0 1.7-1.4 3.1-3.1 3.1h-2.5c-1.7 0-3.1-1.4-3.1-3.1v-9.4" stroke-linecap="round" stroke-width="2.6"/>
+ </g>
+</svg>
