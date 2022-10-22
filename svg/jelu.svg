@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- Reference: https://github.com/bayang/jelu/blob/main/src/jelu-ui/src/assets/jelu_logo.svg?short_path=240c08d -->
+
+<svg
+   width="180"
+   height="180"
+   viewBox="0 0 180 180"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="jelu_bigger_path_contour_ivoire.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="2.3555556"
+     inkscape:cx="-4.6698113"
+     inkscape:cy="74.929245"
+     inkscape:window-width="2560"
+     inkscape:window-height="1410"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#f7f5d1;fill-opacity:1;fill-rule:evenodd;stroke-width:1.002;stroke-miterlimit:4;stroke-dasharray:none"
+       id="background"
+       width="180"
+       height="180"
+       x="0"
+       y="0" />
+    <g
+       aria-label="J"
+       transform="scale(0.91457227,1.0934073)"
+       id="text3176"
+       style="font-size:175.161px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, @wght=700';font-variation-settings:'wght' 700;fill:#262429;stroke-width:4.57959653;paint-order:normal;stroke:#262429;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         d="m 54.449649,143.43516 c 23.821895,0 37.484453,-14.71353 37.484453,-40.46219 V 20.121817 H 69.163173 v 84.427603 c 0,12.43643 -5.605152,19.09255 -16.289973,19.09255 -5.079669,0 -11.560626,-1.57645 -16.289973,-3.67839 l -6.480956,17.34094 c 7.356761,4.20387 15.764489,6.13064 24.347378,6.13064 z"
+         id="path5497"
+         style="paint-order:normal;stroke:#262429;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.57959653;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       aria-label="l"
+       transform="scale(0.96655236,1.0346051)"
+       id="text4104"
+       style="font-size:175.161px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, @wght=700';font-variation-settings:'wght' 700;fill:#262429;stroke-width:4.45935726;paint-order:normal;stroke:#262429;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         d="m 127.32625,152.08461 c 5.42999,0 11.73578,-1.22613 16.28997,-3.1529 l -4.55419,-15.06385 c -1.92677,0.70065 -3.85354,1.05097 -5.42999,1.05097 -5.25483,0 -8.0574,-3.32806 -8.0574,-9.28353 V 21.239343 H 103.50435 V 128.43787 c 0,14.71353 8.93321,23.64674 23.8219,23.64674 z"
+         id="path5500"
+         style="paint-order:normal;stroke:#262429;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.45935726;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>
