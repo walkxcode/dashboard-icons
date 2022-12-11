@@ -30,6 +30,7 @@
 ## Dashboards
 
 There's multiple Dashboards available. Here are some of the popular ones.
+<br />
 _Dashboards with a \* have native integration with Dashboard Icons._
 
 - [Homarr](https://github.com/ajnart/homarr)\*
