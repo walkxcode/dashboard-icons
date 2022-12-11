@@ -30,16 +30,16 @@
 ## Dashboards
 
 There's multiple Dashboards available. Here are some of the popular ones.
-_Icons with a \* have native integration with Dashboard Icons._
+_Dashboards with a \* have native integration with Dashboard Icons._
 
-- [Homarr](https://github.com/ajnart/homarr) (\*)
-- [Dashy](https://github.com/Lissy93/dashy) (\*)
+- [Homarr](https://github.com/ajnart/homarr)\*
+- [Dashy](https://github.com/Lissy93/dashy)\*
 - [Homer Dashboard](https://github.com/bastienwirtz/homer)
 - [Heimdall](https://github.com/linuxserver/Heimdall)
 - [Organizr(v2)](https://github.com/causefx/Organizr)
 - [Flame](https://github.com/pawelmalak/flame)
 - [SUI](https://github.com/jeroenpardon/sui)
-- [Homepage](https://github.com/benphelps/homepage) (\*)
+- [Homepage](https://github.com/benphelps/homepage)\*
 
 ## Installation
 
