@@ -2,7 +2,7 @@
   <h3 align = "center" > 🟣 Dashboard Icons </h3>
   <p align="center">
     <a href="https://www.jsdelivr.com/package/gh/walkxcode/dashboard-icons">
-      <img src="https://data.jsdelivr.com/v1/package/gh/walkxcode/dashboard-icons/badge?style=rounded"/>
+      <img src="https://data.jsdelivr.com/v1/package/gh/walkxcode/dashboard-icons/badge/week?style=rounded"/>
     </a>
   </p>
 
