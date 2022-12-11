@@ -34,6 +34,7 @@ There's multiple Dashboards available. Here are some of the popular ones.
 - [Organizr(v2)](https://github.com/causefx/Organizr)
 - [Flame](https://github.com/pawelmalak/flame)
 - [SUI](https://github.com/jeroenpardon/sui)
+- [Homepage](https://github.com/benphelps/homepage)
 
 ## Installation
 
