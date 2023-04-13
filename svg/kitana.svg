@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="998" height="771" viewBox="0 0 998 771">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="500" y1="887" x2="500" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d60000"/>
+      <stop offset="1" stop-color="#ff7200"/>
+    </linearGradient>
+  </defs>
+  <path id="Gradient_Fill_1" data-name="Gradient Fill 1" class="cls-1" d="M500,116q40.5,286.472,81,573l9-8L876,387l93-96c9.292-9.3,17.856-24.026,30-30v1L880,476,760,720,677,887H324L230,699,120,475,1,262l1-1L420,689h1Q460.5,402.529,500,116Z" transform="translate(-1 -116)"/>
+</svg>

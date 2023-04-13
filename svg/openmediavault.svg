@@ -1,1 +1,116 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" id="svg4578" width="128" height="128" version="1.1" viewBox="0 0 128 128"><title id="title4144">OpenMediaVault logo</title><metadata id="metadata4583"/><g id="layer1" transform="translate(-130.69566,-505.14818)"><rect style="fill:#5dacdf;fill-opacity:1;stroke:#000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect4142" width="128" height="128" x="130.696" y="505.148"/><g id="g4145"><rect style="fill:none;fill-opacity:1;stroke:#fff;stroke-width:4.78585196;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect3772-1-2-9-1-9" width="103.214" height="93.811" x="143.089" y="522.243" rx="1.857" ry="1.857"/><g id="g4372" transform="matrix(2.3495262,0,0,2.3495262,-228.61678,-1077.8896)"><path style="fill:#fff;fill-opacity:1" id="path23-4-1-6-9-0" d="m 163.94765,686.42298 c -0.38058,0 -0.68819,0.2853 -0.68819,0.6388 l 0,7.0865 c 0,0.3535 0.30762,0.6392 0.68819,0.6392 l 32.44367,0 c 0.37849,0 0.68778,-0.2877 0.68778,-0.6392 l 0,-7.0865 c 0,-0.3535 -0.3072,-0.6388 -0.68778,-0.6388 l -32.44367,0 z m 3.93921,1.6958 a 2.4863311,2.4863311 0 0 1 2.48647,2.4865 2.4863311,2.4863311 0 0 1 -2.48647,2.4864 2.4863311,2.4863311 0 0 1 -2.48605,-2.4864 2.4863311,2.4863311 0 0 1 2.48605,-2.4865 z m 0,1.1881 a 1.29858,1.29858 0 0 0 -1.29836,1.2984 1.29858,1.29858 0 0 0 1.29836,1.2987 1.29858,1.29858 0 0 0 1.29878,-1.2987 1.29858,1.29858 0 0 0 -1.29878,-1.2984 z"/><path style="fill:#fff;fill-opacity:1" id="path23-4-1-8-7-5" d="m 163.94765,696.82628 c -0.38058,0 -0.68819,0.2853 -0.68819,0.6388 l 0,7.0865 c 0,0.3534 0.30762,0.6392 0.68819,0.6392 l 32.44367,0 c 0.37849,0 0.68778,-0.2877 0.68778,-0.6392 l 0,-7.0865 c 0,-0.3535 -0.3072,-0.6388 -0.68778,-0.6388 l -32.44367,0 z m 3.93921,1.6958 a 2.4863311,2.4863311 0 0 1 2.48647,2.4864 2.4863311,2.4863311 0 0 1 -2.48647,2.4865 2.4863311,2.4863311 0 0 1 -2.48605,-2.4865 2.4863311,2.4863311 0 0 1 2.48605,-2.4864 z m 0,1.1881 a 1.29858,1.29858 0 0 0 -1.29836,1.2983 1.29858,1.29858 0 0 0 1.29836,1.2988 1.29858,1.29858 0 0 0 1.29878,-1.2988 1.29858,1.29858 0 0 0 -1.29878,-1.2983 z"/><path style="fill:#fff;fill-opacity:1" id="path23-4-1-8-3-8-73" d="m 163.94765,707.22958 c -0.38058,0 -0.68819,0.2853 -0.68819,0.6388 l 0,7.0865 c 0,0.3534 0.30762,0.6391 0.68819,0.6391 l 32.44367,0 c 0.37849,0 0.68778,-0.2876 0.68778,-0.6391 l 0,-7.0865 c 0,-0.3535 -0.3072,-0.6388 -0.68778,-0.6388 l -32.44367,0 z m 3.93921,1.6957 a 2.4863311,2.4863311 0 0 1 2.48647,2.4865 2.4863311,2.4863311 0 0 1 -2.48647,2.4865 2.4863311,2.4863311 0 0 1 -2.48605,-2.4865 2.4863311,2.4863311 0 0 1 2.48605,-2.4865 z m 0,1.1881 a 1.29858,1.29858 0 0 0 -1.29836,1.2984 1.29858,1.29858 0 0 0 1.29836,1.2988 1.29858,1.29858 0 0 0 1.29878,-1.2988 1.29858,1.29858 0 0 0 -1.29878,-1.2984 z"/></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   id="svg4578"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="favicon.svg"
+   inkscape:export-filename="./favicon_180x180.png"
+   inkscape:export-xdpi="135"
+   inkscape:export-ydpi="135">
+  <title
+     id="title4144">OpenMediaVault logo</title>
+  <defs
+     id="defs4580" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.7046466"
+     inkscape:cx="84.837701"
+     inkscape:cy="51.797109"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1148"
+     inkscape:window-height="824"
+     inkscape:window-x="40"
+     inkscape:window-y="68"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px" />
+  <metadata
+     id="metadata4583">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>OpenMediaVault logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Volker Theile</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Volker Theile</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date>15.09.2016</dc:date>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-130.69566,-505.14818)">
+    <rect
+       style="fill:#5dacdf;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4142"
+       width="128"
+       height="128"
+       x="130.69566"
+       y="505.14819" />
+    <g
+       id="g4145">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:4.78585196;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3772-1-2-9-1-9"
+         width="103.21415"
+         height="93.8106"
+         x="143.08859"
+         y="522.24286"
+         ry="1.8566352"
+         rx="1.8566352" />
+      <g
+         transform="matrix(2.3495262,0,0,2.3495262,-228.61678,-1077.8896)"
+         id="g4372">
+        <path
+           style="fill:#ffffff;fill-opacity:1"
+           d="m 163.94765,686.42298 c -0.38058,0 -0.68819,0.2853 -0.68819,0.6388 l 0,7.0865 c 0,0.3535 0.30762,0.6392 0.68819,0.6392 l 32.44367,0 c 0.37849,0 0.68778,-0.2877 0.68778,-0.6392 l 0,-7.0865 c 0,-0.3535 -0.3072,-0.6388 -0.68778,-0.6388 l -32.44367,0 z m 3.93921,1.6958 a 2.4863311,2.4863311 0 0 1 2.48647,2.4865 2.4863311,2.4863311 0 0 1 -2.48647,2.4864 2.4863311,2.4863311 0 0 1 -2.48605,-2.4864 2.4863311,2.4863311 0 0 1 2.48605,-2.4865 z m 0,1.1881 a 1.29858,1.29858 0 0 0 -1.29836,1.2984 1.29858,1.29858 0 0 0 1.29836,1.2987 1.29858,1.29858 0 0 0 1.29878,-1.2987 1.29858,1.29858 0 0 0 -1.29878,-1.2984 z"
+           id="path23-4-1-6-9-0"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffffff;fill-opacity:1"
+           d="m 163.94765,696.82628 c -0.38058,0 -0.68819,0.2853 -0.68819,0.6388 l 0,7.0865 c 0,0.3534 0.30762,0.6392 0.68819,0.6392 l 32.44367,0 c 0.37849,0 0.68778,-0.2877 0.68778,-0.6392 l 0,-7.0865 c 0,-0.3535 -0.3072,-0.6388 -0.68778,-0.6388 l -32.44367,0 z m 3.93921,1.6958 a 2.4863311,2.4863311 0 0 1 2.48647,2.4864 2.4863311,2.4863311 0 0 1 -2.48647,2.4865 2.4863311,2.4863311 0 0 1 -2.48605,-2.4865 2.4863311,2.4863311 0 0 1 2.48605,-2.4864 z m 0,1.1881 a 1.29858,1.29858 0 0 0 -1.29836,1.2983 1.29858,1.29858 0 0 0 1.29836,1.2988 1.29858,1.29858 0 0 0 1.29878,-1.2988 1.29858,1.29858 0 0 0 -1.29878,-1.2983 z"
+           id="path23-4-1-8-7-5"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffffff;fill-opacity:1"
+           d="m 163.94765,707.22958 c -0.38058,0 -0.68819,0.2853 -0.68819,0.6388 l 0,7.0865 c 0,0.3534 0.30762,0.6391 0.68819,0.6391 l 32.44367,0 c 0.37849,0 0.68778,-0.2876 0.68778,-0.6391 l 0,-7.0865 c 0,-0.3535 -0.3072,-0.6388 -0.68778,-0.6388 l -32.44367,0 z m 3.93921,1.6957 a 2.4863311,2.4863311 0 0 1 2.48647,2.4865 2.4863311,2.4863311 0 0 1 -2.48647,2.4865 2.4863311,2.4863311 0 0 1 -2.48605,-2.4865 2.4863311,2.4863311 0 0 1 2.48605,-2.4865 z m 0,1.1881 a 1.29858,1.29858 0 0 0 -1.29836,1.2984 1.29858,1.29858 0 0 0 1.29836,1.2988 1.29858,1.29858 0 0 0 1.29878,-1.2988 1.29858,1.29858 0 0 0 -1.29878,-1.2984 z"
+           id="path23-4-1-8-3-8-73"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
