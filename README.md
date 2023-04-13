@@ -18,7 +18,7 @@
 
 - [Getting Started 🚀](#getting-started-)
   - [Dashboards 📊](#dashboards-)
-  - [Installation 🛠️](#installation-)
+  - [Installation 🛠️](#installation-%EF%B8%8F)
 - [Icons 🎨](#icons-)
 - [Legal 📜](#legal-)
 
