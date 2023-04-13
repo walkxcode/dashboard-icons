@@ -62,9 +62,12 @@ $ wget https://raw.githubusercontent.com/walkxcode/dashboard-icons/master/png/ex
 
 # Icons
 
+<details>
+  <summary>Display all icons</summary>
 <!-- ICONS -->
 
 <!-- END ICONS -->
+</details>
 
 <!-- LEGAL -->
 
