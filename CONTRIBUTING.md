@@ -4,15 +4,10 @@ Thank you for your interest in contributing to our icon repository! To ensure th
 
 ## 🌟 Icon Specifications
 
-- Each icon should be in `PNG` format and have a height of exactly `512px`. Width does not matter. ❗️(No upscales! If the correct size cannot be found, a smaller height will be accepted.)
-
-- Each icon should include both a `PNG` and `SVG` version. If an `SVG` cannot be found, then only a `PNG` version is required.
-
+- Each icon should be in **PNG** format and have a height of exactly **512px**. Width does not matter. ❗️(No upscales! If the correct size cannot be found, a smaller height will be accepted.)
+- Each icon should include both a **PNG** and **SVG** version. If an **SVG** cannot be found, then only a **PNG** version is required.
 - Icons should be named after their full name, with spaces replaced by dashes. For example, "Facebook Messenger" should be named `facebook-messenger.png`.
-
-- Monochrome icons should default to a dark version. Light versions should be named `service-light.png`. If a light version is not available, use https://pinetools.com/colorize-image to change its color.
-
-- If an `SVG` is available for an icon, the `PNG` should be a conversion of that `SVG`. Use https://ezgif.com/svg-to-png to do this. Set the height to `512px` and leave the width empty.
+- Monochrome icons should default to a dark version. Light versions should be named `service-light.png`. If a light version is not available, use [https://pinetools.com/colorize-image](https://pinetools.com/colorize-image) to change its color.
 
 
 ## 💻 Gitmoji Commits
