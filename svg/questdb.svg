@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 26.335 22.921997"
+   version="1.1"
+   id="svg68"
+   width="26.334999"
+   height="22.921997"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3">
+    <path
+       id="reuse-0"
+       fill-opacity="0.6"
+       d="M 0,0 H 95 V 23 H 0 Z" />
+  </defs>
+  <defs
+     id="defs50">
+    <linearGradient
+       id="e"
+       x1="323.79501"
+       x2="72.113998"
+       y1="283.31601"
+       y2="22.646"
+       gradientTransform="scale(0.08058,0.08127)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#892c6c"
+         id="stop5" />
+      <stop
+         offset="1"
+         stop-color="#d14671"
+         id="stop7" />
+    </linearGradient>
+    <linearGradient
+       id="f"
+       x1="57.987999"
+       x2="318.65799"
+       y1="17.51"
+       y2="279.46399"
+       gradientTransform="matrix(0.08058,0,0,0.08127,-0.01699653,-0.06600095)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#c34170"
+         id="stop10" />
+      <stop
+         offset="1"
+         stop-color="#8b2c6c"
+         id="stop12" />
+    </linearGradient>
+    <linearGradient
+       id="h"
+       x1="312.23801"
+       x2="46.431999"
+       y1="276.89801"
+       y2="17.511999"
+       gradientTransform="scale(0.08058,0.08127)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#882b6b"
+         id="stop15" />
+      <stop
+         offset="1"
+         stop-color="#cf4671"
+         id="stop17" />
+    </linearGradient>
+    <linearGradient
+       id="c"
+       x1="34.713001"
+       x2="70.973"
+       y1="192.381"
+       y2="89.575996"
+       gradientTransform="scale(0.08058,0.08127)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#fff"
+         stop-opacity=".38"
+         id="stop20" />
+      <stop
+         offset=".86"
+         stop-color="#fff"
+         stop-opacity=".012"
+         id="stop22" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         stop-opacity="0"
+         id="stop24" />
+    </linearGradient>
+    <clipPath
+       id="d">
+      <path
+         d="M 0.016,0.066 H 19 V 22.988 H 0.016 Z m 0,0"
+         id="path27" />
+    </clipPath>
+    <clipPath
+       id="g">
+      <path
+         d="M 8,11 H 26.352 V 22.988 H 8 Z m 0,0"
+         id="path30" />
+    </clipPath>
+    <clipPath
+       id="i">
+      <path
+         d="M 0.016,0.066 H 26.352 V 22.988 H 0.016 Z m 0,0"
+         id="path33" />
+    </clipPath>
+    <clipPath
+       id="b">
+      <use
+         xlink:href="#reuse-0"
+         id="use36" />
+    </clipPath>
+    <filter
+       id="a"
+       width="1"
+       height="1"
+       x="0"
+       y="0"
+       filterUnits="objectBoundingBox">
+      <feColorMatrix
+         in="SourceGraphic"
+         values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+         id="feColorMatrix39" />
+    </filter>
+    <mask
+       id="k">
+      <g
+         filter="url(#a)"
+         id="g44">
+        <use
+           fill-opacity="0.6"
+           xlink:href="#reuse-0"
+           id="use42" />
+      </g>
+    </mask>
+    <g
+       id="j"
+       clip-path="url(#b)">
+      <path
+         fill="url(#c)"
+         d="m 1.543,5.809 c -2.793,8.02 5.55,11.367 5.55,11.367 C 6.199,16.516 5.082,14.969 4.746,13.863 4.039,11.582 4.262,9.781 5.418,7.793"
+         id="path47" />
+    </g>
+  </defs>
+  <g
+     clip-path="url(#d)"
+     id="g56"
+     transform="translate(-0.01699653,-0.06600095)">
+    <path
+       fill="url(#e)"
+       d="m 4.336,11.508 c 0,-3.973 3.242,-7.172 7.266,-7.172 1.453,0 2.793,0.402 3.91,1.14 L 18.641,2.422 A 11.63,11.63 0 0 0 11.6,0.066 c -6.404,0 -11.583,5.114 -11.583,11.442 0,6.332 5.18,11.445 11.586,11.445 v -4.27 c -4.024,0 -7.266,-3.199 -7.266,-7.175 z m 0,0"
+       id="path54"
+       style="fill:url(#e)" />
+  </g>
+  <path
+     fill="url(#f)"
+     d="m 18.846003,11.441999 h 4.32 c 0,-3.016 -1.19,-5.774 -3.128,-7.836 l -3.055,3.02 a 7.192,7.192 0 0 1 1.863,4.816 z m 0,0"
+     id="path58"
+     style="fill:url(#f)" />
+  <g
+     clip-path="url(#g)"
+     id="g62"
+     transform="translate(-0.01699653,-0.06600095)">
+    <path
+       fill="url(#h)"
+       d="M 15.14,11.879 H 8.77 l 11.25,11.11 6.332,-0.036 z m 0,0"
+       id="path60"
+       style="fill:url(#h)" />
+  </g>
+  <g
+     clip-path="url(#i)"
+     id="g66"
+     transform="translate(-0.01699653,-0.06600095)">
+    <use
+       mask="url(#k)"
+       xlink:href="#j"
+       id="use64" />
+  </g>
+</svg>
