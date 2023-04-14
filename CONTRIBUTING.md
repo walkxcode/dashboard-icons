@@ -14,6 +14,12 @@ Thank you for your interest in contributing to our icon repository! To ensure th
 
 - If an `SVG` is available for an icon, the `PNG` should be a conversion of that `SVG`. Use https://ezgif.com/svg-to-png to do this. Set the height to `512px` and leave the width empty.
 
+
+## 💻 Gitmoji Commits
+
+- Please use [Gitmoji](https://gitmoji.dev/) in your commit messages. This helps us keep our commit history clear and easy to understand. For example, you might use the `🍱` emoji for a commit that updates an icon's color, or the `📝` emoji for a commit that updates the documentation.
+
+
 ## 🤝 Contributing
 
 1. Fork the repository to your own GitHub account.
