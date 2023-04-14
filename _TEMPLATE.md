@@ -8,7 +8,7 @@
   <p align="center">
     🚀 The best place to find icons for your dashboards.
     <br />
-    <a href="#-icons"><strong>👀 See the icons</strong></a>
+    <a href="#-icons"><strong>👀 See the icons</strong></a> • <a href="https://shop.walkx.fyi/l/donate" target="_blank"><strong>🙌🏻 Donate</strong></a>
     <br />
     <br />
   </p>
