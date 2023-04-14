@@ -1,4 +1,4 @@
-name: 👉 Template to Readme
+name: 🚀 Generates README
 
 on:
   push:
@@ -17,7 +17,7 @@ jobs:
           python-version: "3.9"
           architecture: "x64"
 
-    - name: Template to Readme
+    - name: Readme Generator
       run: |-
         python _ci.py
         cat README.md
@@ -25,8 +25,8 @@ jobs:
     - name: Load to GitHub
       run: |-
         git diff
-        git config --global user.email "noreply@walkx.org"
-        git config --global user.name "Template to Readme"
+        git config --global user.email "noreply@walkx.fyi"
+        git config --global user.name "Dashboard Icons Bot"
         git add -A
-        git commit -m "👉 Converts _template to readme" || exit 0
+        git commit -m "🚀 Generates README" || exit 0
         git push
