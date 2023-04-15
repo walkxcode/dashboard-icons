@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg height="512" width="512" viewBox="0 0 6.5625 6.5625" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview guidetolerance="10">
+  <sodipodi:guide position="154.17325,117.15254" orientation="0,1"/>
+  <sodipodi:guide position="154.17325,166.44575" orientation="0,1"/>
+  <sodipodi:guide position="154.17325,288.40369" orientation="0,1"/>
+  <sodipodi:guide position="380.44742,392.71992" orientation="0,1"/>
+  <sodipodi:guide position="101.9661,166.44575" orientation="1,0"/>
+  <sodipodi:guide position="276.13119,288.40369" orientation="1,0"/>
+  <sodipodi:guide position="380.44742,165.67871" orientation="1,0"/>
+  <sodipodi:guide position="154.17325,288.40369" orientation="1,0"/>
+  <sodipodi:guide position="154.17325,166.44575" orientation="-0.70710678,0.70710678"/>
+  <sodipodi:guide position="123.21968,135.49218" orientation="1,0"/>
+  <sodipodi:guide position="123.21968,135.49218" orientation="0,1"/>
+ </sodipodi:namedview>
+ <rect fill="#f88a14" rx="0.7" ry="0.7" height="6.5625" width="6.5625"/>
+ <path d="m1.9761,1.5289c2.9002,0,2.9002,2.9101,2.9002,2.9101" fill="none" stroke="#FFF" stroke-linecap="round" stroke-width="0.78125"/>
+ <path d="m1.9688,2.875c1.5705-0.00908,1.5705,1.5639,1.5705,1.5639" fill="none" stroke="#FFF" stroke-linecap="round" stroke-width="0.78125"/>
+ <path d="m2.6503,4.4062c0,0.23366-0.10712,0.47418-0.24663,0.6537-0.1814,0.2333-0.5705,0.5618-0.6913,0.5653,0.0402-0.0662,0.263-0.5654,0.2563-0.5654-0.36423,0-0.6595-0.29265-0.6595-0.65365s0.29527-0.65365,0.6595-0.65365,0.68159,0.29265,0.68159,0.65365z" fill="#FFF"/>
+</svg>

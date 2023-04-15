@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg5296"
+   version="1.1"
+   viewBox="0 0 117.17262 117.17262"
+   height="117.17262mm"
+   width="117.17262mm">
+  <defs
+     id="defs5290" />
+  <metadata
+     id="metadata5293">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-39.6875,-207.41964)"
+     id="layer1">
+    <ellipse
+       ry="58.586308"
+       rx="58.586311"
+       cy="266.00595"
+       cx="98.273811"
+       id="path5277"
+       style="opacity:1;fill:#f44336;fill-opacity:1;stroke:none;stroke-width:0.35299999;stroke-miterlimit:4;stroke-dasharray:0.353, 0.70599999;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       transform="translate(1.9099648,5.9277343e-6)"
+       id="text819"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.49136353px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+       aria-label="栞 ">
+      <path
+         id="path5851"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:81.4916687px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458329"
+         d="m 61.029568,268.55256 h 32.15101 v -7.63984 h 6.366536 v 7.63984 H 131.3798 v 5.72988 h -28.01276 q 11.77809,12.09642 29.92272,18.14463 l -3.5016,6.68487 q -18.14463,-7.32152 -30.241046,-21.96455 v 24.51116 h -6.366536 v -24.82949 q -10.823113,13.36973 -29.604396,21.64622 l -4.138249,-5.41155 q 17.826303,-7.00319 28.649415,-18.78129 H 61.029568 Z M 77.90089,236.08322 H 64.531163 v -5.72988 h 29.922722 v 5.72988 H 83.949099 v 8.59483 h 10.823113 v 5.72988 H 83.949099 q -1.273307,10.82311 -14.324707,17.8263 l -3.501595,-5.41155 q 10.504785,-5.09323 11.459766,-12.41475 H 62.621202 v -5.72988 H 77.90089 Z m 21.00957,-5.72988 h 31.51436 v 5.72988 h -13.68806 v 8.59483 h 15.27969 v 5.72988 h -15.27969 v 17.18965 h -6.04821 V 250.40793 H 98.273807 v -5.72988 h 12.414743 v -8.59483 H 98.91046 Z" />
+    </g>
+  </g>
+</svg>

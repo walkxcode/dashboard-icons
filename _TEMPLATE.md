@@ -1,37 +1,33 @@
 <p align="center">
-  <h3 align = "center" > 🟣 Dashboard Icons </h3>
+  <h2 align="center"> 🟣 Dashboard Icons </h3>
   <p align="center">
     <a href="https://www.jsdelivr.com/package/gh/walkxcode/dashboard-icons">
-      <img src="https://data.jsdelivr.com/v1/package/gh/walkxcode/dashboard-icons/badge/week?style=rounded"/>
+      <img src="https://img.shields.io/jsdelivr/gh/hy/walkxcode/dashboard-icons?color=%23A020F0" alt="JSdelivr weekly downloads badge">
     </a>
   </p>
-
   <p align="center">
-    ❤️ The best icons for your personal dashboard.
- <br/>
-    <a href="#icons"> <strong > See the icons »</strong> </a>
- <br/>
- <br/>
+    🚀 The best place to find icons for your dashboards.
+    <br />
+    <a href="#-icons"><strong>👀 See the icons</strong></a> • <a href="https://shop.walkx.fyi/l/donate" target="_blank"><strong>🙌🏻 Donate</strong></a>
+    <br />
+    <br />
+  </p>
 </p>
 
-# Table of Contents
+# 📖 Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [Getting Started](#getting-started)
-  - [Dashboards](#dashboards)
-  - [Installation](#installation)
-- [Icons](#icons)
-- [Legal](#legal)
+- [🚀 Getting Started](#-getting-started)
+  - [📊 Dashboards](#-dashboards)
+  - [🛠️ Installation](#️-installation)
+- [🎨 Icons](#-icons)
+- [🎉 Contributing Guidelines](#-contributing-guidelines)
+- [📜 Legal](#-legal)
 
-<!-- GETTING STARTED -->
+## 🚀 Getting Started
 
-# Getting Started
+### 📊 Dashboards
 
-## Dashboards
-
-There's multiple Dashboards available. Here are some of the popular ones.
-<br />
-_Dashboards with a \* have native integration with Dashboard Icons._
+There are many Dashboards available that you can use with Dashboard Icons. Here are some of the popular ones.
 
 - [Homarr](https://github.com/ajnart/homarr)\*
 - [Dashy](https://github.com/Lissy93/dashy)\*
@@ -42,13 +38,15 @@ _Dashboards with a \* have native integration with Dashboard Icons._
 - [SUI](https://github.com/jeroenpardon/sui)
 - [Homepage](https://github.com/benphelps/homepage)\*
 
-## Installation
+**Note:** Dashboards with a \* have native integration with Dashboard Icons.
 
-**TIP! You can access Dashboard Icons online, faster, by using `https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/example.png`**
+### 🛠️ Installation
 
-To download an icon, simple `Right click > Save image`.
+**Tip!** You can access Dashboard Icons online, faster, by using `https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/example.png`. Just replace `example` with the name of the icon!
 
-For non-desktop operating systems, or people that prefer to use terminal.
+To download an icon, simply `Right click > Save image`.
+
+For non-desktop operating systems or people who prefer to use the terminal:
 
 ```sh
 $ curl https://raw.githubusercontent.com/walkxcode/dashboard-icons/master/png/example.png > example.png
@@ -57,19 +55,21 @@ $ curl https://raw.githubusercontent.com/walkxcode/dashboard-icons/master/png/ex
 or
 
 ```sh
-$ wget https://raw.githubusercontent.com/walkxcode/dashboard-icons/master/png/example.png - O example.png
+$ wget https://raw.githubusercontent.com/walkxcode/dashboard-icons/master/png/example.png -O example.png
 ```
 
-# Icons
-
+## 🎨 Icons
+<details>
+  <summary>Click to display all icons 👀</summary>
 <!-- ICONS -->
-
 <!-- END ICONS -->
+</details>
 
-<!-- LEGAL -->
+## 🎉 Contributing Guidelines
+Please read the [Contributing Guidelines](CONTRIBUTING.md) before contributing to this project.
 
-# Legal
+## 📜 Legal
 
-(Almost) All product names, trademarks and registered trademarks in the images in this repository, are property of their respective owners. All images in this repository are used by the users of the Dashboard Icons project for identification purposes only.
+(Almost) All product names, trademarks, and registered trademarks in the images in this repository are the property of their respective owners. All images in this repository are used by the users of the Dashboard Icons project for identification purposes only.
 
-The use of these names, trademarks and brands appearing in these image files, do not imply endorsement.
+The use of these names, trademarks, and brands appearing in these image files does not imply endorsement.

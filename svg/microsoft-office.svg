@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
+	<defs>
+		<style>
+        		.cls-1{
+					isolation:isolate;
+				}
+
+				.cls-2{
+					opacity:0.2;
+				}
+
+				.cls-2,.cls-3,.cls-5{
+					mix-blend-mode:multiply;
+				}
+
+				.cls-4{
+					fill:#fff;
+				}
+
+				.cls-5{
+					opacity:0.12;
+				}
+
+				.cls-6{
+					fill:url(#linear-gradient);
+				}
+
+				.cls-7{
+					fill:url(#linear-gradient-2);
+				}
+
+				.cls-8{
+					fill:url(#linear-gradient-3);
+				}
+
+				.cls-9{
+					fill:url(#linear-gradient-4);
+				}
+
+				.cls-10{
+					fill:url(#linear-gradient-5);
+				}
+
+				.cls-11{
+					fill:none;
+				}
+		</style>
+
+		<linearGradient id="linear-gradient" x1="45.2" y1="-1.42" x2="45.2" y2="57.8" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ffb900"/><stop offset="0.17" stop-color="#ef8400"/><stop offset="0.31" stop-color="#e25c01"/><stop offset="0.43" stop-color="#db4401"/><stop offset="0.5" stop-color="#d83b01"/></linearGradient>
+		<linearGradient id="linear-gradient-2" x1="34.52" y1="0.67" x2="3.16" y2="45.45" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#800600"/><stop offset="0.6" stop-color="#c72127"/><stop offset="0.73" stop-color="#c13959"/><stop offset="0.85" stop-color="#bc4b81"/><stop offset="0.94" stop-color="#b95799"/><stop offset="1" stop-color="#b85ba2"/></linearGradient>
+		<linearGradient id="linear-gradient-3" x1="18.5" y1="55.63" x2="59.44" y2="55.63" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f32b44"/><stop offset="0.6" stop-color="#a4070a"/></linearGradient>
+		<linearGradient id="linear-gradient-4" x1="35.16" y1="-0.24" x2="28.52" y2="9.24" gradientUnits="userSpaceOnUse"><stop offset="0" stop-opacity="0.4"/><stop offset="1" stop-opacity="0"/></linearGradient>
+		<linearGradient id="linear-gradient-5" x1="46.32" y1="56.55" x2="27.99" y2="54.95" gradientUnits="userSpaceOnUse"><stop offset="0" stop-opacity="0.4"/><stop offset="1" stop-opacity="0"/></linearGradient>
+  	</defs>
+  
+ <g class="cls-1">
+	<g id="Icons_-_Color" data-name="Icons - Color">
+		<g id="Desktop_-_Full_Bleed" data-name="Desktop - Full Bleed">
+			<g class="cls-2">
+				<path class="cls-4" d="M19.93,49a3.22,3.22,0,0,0-1.59,6L29.7,61.44a6.2,6.2,0,0,0,3.07.81A6,6,0,0,0,34.48,62l17.09-4.87A6.12,6.12,0,0,0,56,51.26V49Z"/>
+          	</g>
+
+          	<g class="cls-5">
+				<path class="cls-4" d="M19.93,49a3.22,3.22,0,0,0-1.59,6L29.7,61.44a6.2,6.2,0,0,0,3.07.81A6,6,0,0,0,34.48,62l17.09-4.87A6.12,6.12,0,0,0,56,51.26V49Z"/>
+         	</g>
+				<path class="cls-6" d="M34.41,2,39,12.5V49L34.48,62l17.09-4.87A6.12,6.12,0,0,0,56,51.26V12.74a6.11,6.11,0,0,0-4.44-5.88Z"/>
+				<path class="cls-7" d="M12.74,48.61l5-2.7A4.36,4.36,0,0,0,20,42.08V22.43a4.37,4.37,0,0,1,2.87-4.1L39,12.5V8.07A6.32,6.32,0,0,0,34.41,2a6.18,6.18,0,0,0-1.73-.24h0a6.41,6.41,0,0,0-3.14.83L11.08,13.12A6.1,6.1,0,0,0,8,18.42V45.78A3.21,3.21,0,0,0,12.74,48.61Z"/>
+				<path class="cls-8" d="M39,49H19.93a3.22,3.22,0,0,0-1.59,6L29.7,61.44a6.2,6.2,0,0,0,3.07.81h0A6,6,0,0,0,34.48,62,6.22,6.22,0,0,0,39,56Z"/>
+				<path class="cls-9" d="M12.74,48.61l5-2.7A4.36,4.36,0,0,0,20,42.08V22.43a4.37,4.37,0,0,1,2.87-4.1L39,12.5V8.07A6.32,6.32,0,0,0,34.41,2a6.18,6.18,0,0,0-1.73-.24h0a6.41,6.41,0,0,0-3.14.83L11.08,13.12A6.1,6.1,0,0,0,8,18.42V45.78A3.21,3.21,0,0,0,12.74,48.61Z"/>
+				<path class="cls-10" d="M39,49H19.93a3.22,3.22,0,0,0-1.59,6L29.7,61.44a6.2,6.2,0,0,0,3.07.81h0A6,6,0,0,0,34.48,62,6.22,6.22,0,0,0,39,56Z"/>
+				<rect class="cls-11" width="64" height="64"/>
+		</g>
+	</g>
+</g>
+</svg>

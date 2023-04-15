@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200mm" height="200mm" enable-background="new" version="1.1" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0,-97)">
+  <path d="m38.27 148.99 10.288 10.288-48.013 48.013 51.442 51.442 10.288-10.288 48.012 48.012 54.872-54.872-10.288-10.288 44.583-44.583-51.442-51.442-10.288 10.288-48.013-48.013z" fill="#52b54b"/>
+ </g>
+ <path transform="matrix(1 0 0 .98825 .089003 .16486)" d="m76.911 138.46v-37.946-37.946l65.724 37.946-32.862 18.973z" fill="#fff"/>
+</svg>
