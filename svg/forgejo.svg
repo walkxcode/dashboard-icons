@@ -1,1 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" id="svg15513" width="146" height="238" version="1.1" viewBox="0 0 146 238"><style id="style15499" type="text/css">path{fill:none;stroke:#000;stroke-width:20}</style><path style="color:#000;fill:#f50;-inkscape-stroke:none;stroke:none" id="path15501" d="m 84.5,13.5 c -39.052276,0 -71,31.947724 -71,71 v 115 h 27 v -115 c 0,-24.460407 19.539593,-44 44,-44 h 23 v -27 z"/><path style="color:#000;fill:#c00;-inkscape-stroke:none;stroke:none" id="path15503" d="m 84.5,88.25 c -39.052276,0 -71,31.94772 -71,71 v 40.25 h 27 v -40.25 c 0,-24.46041 19.539593,-44 44,-44 h 23 v -27 z"/><path style="color:#000;fill:#f50;-inkscape-stroke:none;stroke:none" id="circle15505" d="m 119,0 c -14.81689,0 -27,12.183109 -27,27 0,14.816891 12.18311,27 27,27 14.81689,-4e-6 27,-12.183111 27,-27 C 146,12.183111 133.81689,3.8991905e-6 119,0 Z m 0,16 c 6.16986,2e-6 11,4.830143 11,11 0,6.169857 -4.83014,10.999998 -11,11 -6.16986,0 -11,-4.830142 -11,-11 0,-6.169858 4.83014,-11 11,-11 z"/><path style="color:#000;fill:#c00;-inkscape-stroke:none;stroke:none" id="circle15507" d="m 119,74.75 c -14.81689,0 -27,12.183109 -27,27 4e-6,14.81689 12.18311,27 27,27 14.81689,0 27,-12.18311 27,-27 0,-14.816889 -12.18311,-26.999996 -27,-27 z m 0,16 c 6.16986,2e-6 11,4.830143 11,11 0,6.16986 -4.83014,11 -11,11 -6.16986,0 -11,-4.83014 -11,-11 0,-6.169858 4.83014,-11 11,-11 z"/><path style="color:#000;fill:#c00;-inkscape-stroke:none;stroke:none" id="circle15509" d="M 27,184 C 12.183106,184 -3.8991919e-6,196.18311 0,211 c 3.8991905e-6,14.81689 12.183111,27 27,27 14.816889,0 26.999996,-12.18311 27,-27 4e-6,-14.81689 -12.183106,-27 -27,-27 z m 0,16 c 6.16986,0 11.000002,4.83014 11,11 -2e-6,6.16986 -4.830143,11 -11,11 -6.169857,0 -10.999998,-4.83014 -11,-11 -2e-6,-6.16986 4.83014,-11 11,-11 z"/></svg>
+<svg viewBox="0 0 212 212" xmlns="http://www.w3.org/2000/svg">
+  <style type="text/css">
+    circle {
+      fill: none;
+      stroke: #000;
+      stroke-width: 15;
+    }
+    path {
+      fill: none;
+      stroke: #000;
+      stroke-width: 25;
+    }
+    .orange {
+      stroke:#ff6600;
+    }
+    .red {
+      stroke:#d40000;
+    }
+  </style>
+  <g transform="translate(6,6)">
+    <path d="M58 168 v-98 a50 50 0 0 1 50-50 h20" class="orange" />
+    <path d="M58 168 v-30 a50 50 0 0 1 50-50 h20" class="red" />
+    <circle cx="142" cy="20" r="18" class="orange" />
+    <circle cx="142" cy="88" r="18" class="red" />
+    <circle cx="58" cy="180" r="18" class="red" />
+  </g>
+</svg>

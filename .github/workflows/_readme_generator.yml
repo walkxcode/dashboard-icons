@@ -1,0 +1,32 @@
+name: 🚀 Generates README
+
+on:
+  push:
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+          python-version: "3.9"
+          architecture: "x64"
+
+    - name: Readme Generator
+      run: |-
+        python _ci.py
+        cat README.md
+
+    - name: Load to GitHub
+      run: |-
+        git diff
+        git config --global user.email "noreply@walkx.fyi"
+        git config --global user.name "Dashboard Icons Bot"
+        git add -A
+        git commit -m "🚀 Generates README" || exit 0
+        git push

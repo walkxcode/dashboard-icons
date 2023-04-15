@@ -7,7 +7,7 @@ readme_path = root / "README.md"
 
 
 def generate_img_tag(file):
-    return f'<img src="png/{file.name}" alt="{file.stem}" width="50">'
+    return f'<img src="png/{file.name}" alt="{file.stem}" height="50">'
 
 
 imgs = sorted(Path("./png").glob("*.png"))

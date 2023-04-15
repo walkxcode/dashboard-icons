@@ -1,36 +1,26 @@
-name: ⚡️ Requests & Suggestions
+name: "\U0001FA79 Requests & Suggestions"
 description: Suggest an icon or request changes
-title: "⚡ — *put a quick title describing your issue here*"
-labels: ⚡️ Requests & Suggestions
-assignees: WalkxCode
+labels: "\U0001FA79 Requests & Suggestions"
+assignees: walkxcode
 body:
   - type: markdown
     attributes:
-      value: |
-        *Thank you in advance for taking the time to fill out this Requests & Suggestions form!*
-  - type: dropdown
-    id: type
-    attributes:
-      label: Type
-      description: Choose the option below which best descibes your issue.
-      options:
-        - Icon request
-        - Icon enhancement
-        - Documentation change
+      value: "Thank you for your interest in contributing to our icon repository! To ensure that everything runs smoothly, we've set out some guidelines for contributors.\n## \U0001F31F Icon Specifications\n\n- Each icon should be in `PNG` format and have a height of exactly `512px`. Width does not matter. ❗️(No upscales! If the correct size cannot be found, a smaller height will be accepted.)\n\n- Each icon should include both a `PNG` and `SVG` version. If an `SVG` cannot be found, then only a `PNG` version is required.\n\n- Icons should be named after their full name, with spaces replaced by dashes. For example, \"Facebook Messenger\" should be named `facebook-messenger.png`.\n\n- Monochrome icons should default to a dark version. Light versions should be named `service-light.png`. If a light version is not available, use https://pinetools.com/colorize-image to change its color.\n\n- If an `SVG` is available for an icon, the `PNG` should be a conversion of that `SVG`. Use https://ezgif.com/svg-to-png to do this. Set the height to `512px` and leave the width empty.\n"
   - type: textarea
-    id: info
+    id: icon-name
     attributes:
-      label: Info
-      description: Place any relevant information here. Information about the icons you want to request, the documentation changes you want to see, etc.
-      placeholder: ex. Please add a dark version for the Homarr icon.
+      label: Icon Name
+      description: What is the name of the icon you are contributing?
+      placeholder: Enter icon name here
     validations:
       required: true
   - type: textarea
-    id: icon
+    id: icons
     attributes:
       label: Icon(s)
-      description: Upload your icons here. You can do this by Copy-Pasting or Drag&Dropping the images.
-      placeholder: SVG and PNG accepted!
+      description: >-
+        Upload your icons here. You can do this by Copy-Pasting or Drag &
+        Dropping the images.
+      placeholder: Copy-Paste or Drag & Drop images here!
     validations:
       required: false
-  

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125.22519mm" height="135.40532mm" viewBox="0 0 125.22519 135.40532">
+  <defs>
+    <radialGradient xlink:href="#a" id="m" cx="116.26225" cy="207.33107" r="17.964283" fx="116.26225" fy="207.33107" gradientTransform="matrix(.16052 0 0 .16172 -133.60104 -196.97319)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#a" id="n" cx="116.26225" cy="207.33107" r="17.964283" fx="116.26225" fy="207.33107" gradientTransform="matrix(.35482 0 0 .35745 52.845463 85.74806)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#a" id="k" cx="116.26225" cy="207.33107" r="17.964283" fx="116.26225" fy="207.33107" gradientTransform="matrix(.14816 0 0 .14926 -138.46003 -205.27159)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#a" id="h" cx="116.26225" cy="207.33107" r="17.964283" fx="116.26225" fy="207.33107" gradientTransform="matrix(.2423 0 0 .2441 36.676716 96.039879)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#a" id="o" cx="116.26225" cy="207.33107" r="17.964283" fx="116.26225" fy="207.33107" gradientTransform="matrix(.1731 0 0 .17439 33.758025 163.42129)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#a" id="e" cx="116.26225" cy="207.33107" r="17.964283" fx="116.26225" fy="207.33107" gradientTransform="matrix(.16028 0 0 .16147 30.240704 175.66263)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="l" x1="48.501106" x2="48.233837" y1="196.64766" y2="217.22003" gradientTransform="matrix(1.2231 0 0 1.72123 -174.64023 -522.81612)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#a" id="j" x1="48.501106" x2="48.233837" y1="196.64766" y2="217.22003" gradientTransform="matrix(.86267 0 0 1.21401 -162.90485 -427.77136)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#a" id="g" x1="48.501106" x2="48.233837" y1="196.64766" y2="217.22003" gradientTransform="matrix(1.41083 0 0 1.98542 -3.3007082 -267.83949)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#a" id="c" x1="48.501106" x2="48.233837" y1="196.64766" y2="217.22003" gradientTransform="matrix(1.09685 0 0 1.54356 3.7379654 -123.1387)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#a" id="d" x1="48.501106" x2="48.233837" y1="196.64766" y2="217.22003" gradientTransform="matrix(.93325 0 0 1.31333 3.7959955 -65.040289)" gradientUnits="userSpaceOnUse"/>
+    <filter id="i" width="1.119922" height="1.1249826" x="-.059961" y="-.06249129" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="6.2433821"/>
+    </filter>
+    <filter id="f" width="1.0836217" height="1.0796736" x="-.04181085" y="-.03983687" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="6.5467598"/>
+    </filter>
+    <filter id="b" width="1.1370816" height="1.1365196" x="-.0685408" y="-.06825977" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1.9105395"/>
+    </filter>
+  </defs>
+  <g transform="translate(-22.446377 -113.17169)">
+    <path fill-opacity=".73737368" d="M59.269101 174.81753a18.48723 18.624756 0 0 0-18.487241 18.62522 18.48723 18.624756 0 0 0 .390673 3.71295 24.239647 24.419963 0 0 0-7.08174 12.52637 19.140913 19.283302 0 0 0-5.059121 13.02659 19.140913 19.283302 0 0 0 19.14095 19.28306 19.140913 19.283302 0 0 0 9.575644-2.61431 24.239647 24.419963 0 0 0 9.339479-1.91409 18.48723 18.624756 0 0 0 10.355442 3.20187 18.48723 18.624756 0 0 0 18.487242-18.6247 18.48723 18.624756 0 0 0-16.804658-18.53996 24.239647 24.419963 0 0 0-2.46755-3.80183 18.48723 18.624756 0 0 0 1.098124-6.25595 18.48723 18.624756 0 0 0-18.487244-18.62522z" filter="url(#b)"/>
+    <ellipse cx="57.946068" cy="192.30861" fill="#ff02ef" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".54457098" rx="18.48723" ry="18.624756"/>
+    <ellipse cx="78.57724" cy="221.09546" fill="#ff02ef" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5291667" rx="18.48723" ry="18.624756"/>
+    <ellipse cx="58.873608" cy="214.01282" fill="#ff0802" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5291667" rx="24.239647" ry="24.419964"/>
+    <ellipse cx="56.79871" cy="201.01389" fill="url(#c)" rx="15.830276" ry="8.8697271"/>
+    <ellipse cx="49.306366" cy="221.76361" fill="#ff02ef" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5291667" rx="19.140913" ry="19.283302"/>
+    <ellipse cx="48.942749" cy="210.76506" fill="url(#d)" rx="13.469195" ry="7.5468116"/>
+    <ellipse cx="48.875072" cy="209.14061" fill="url(#e)" rx="2.8792932" ry="2.9007118"/>
+    <path fill-opacity=".51010102" d="M413.42383 464.49023a93.32787 94.022128 0 0 0-79.50391 45.00196 149.42678 150.53837 0 0 0-46.84765 14.84961 114.51071 115.36254 0 0 0-41.60547-7.94922 114.51071 115.36254 0 0 0-114.50977 115.36328A114.51071 115.36254 0 0 0 234.16016 746.4375a149.42678 150.53837 0 0 0 45.09765 41.42578 114.51071 115.36254 0 0 0 105.60938 71.04102 114.51071 115.36254 0 0 0 114.51172-115.36133 114.51071 115.36254 0 0 0-4.60743-32.17383 149.42678 150.53837 0 0 0 9.76368-53.01367 149.42678 150.53837 0 0 0-9.86914-53.68359A93.32787 94.022128 0 0 0 506.75 558.51172a93.32787 94.022128 0 0 0-93.32617-94.02149z" filter="url(#f)" transform="translate(-.5716395 3.2187682) scale(.26458)"/>
+    <ellipse cx="109.3848" cy="147.77292" fill="#fd0802" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5291667" rx="24.692999" ry="24.876688"/>
+    <ellipse cx="101.82968" cy="196.72887" fill="#ff0802" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5291667" rx="30.297625" ry="30.523005"/>
+    <ellipse cx="93.955933" cy="174.18964" fill="#fdea05" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5291667" rx="39.535835" ry="39.829945"/>
+    <path fill="#ff0802" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5291667" d="M64.946423 136.62887a30.297625 30.523005 0 0 0-30.297376 30.5232 30.297625 30.523005 0 0 0 30.297376 30.5232 30.297625 30.523005 0 0 0 6.325712-.71055 71.897787 72.432623 0 0 0 20.232356-44.43656 30.297625 30.523005 0 0 0-26.558068-15.89929z"/>
+    <ellipse cx="64.949272" cy="149.10545" fill="url(#g)" rx="20.361874" ry="11.408788"/>
+    <ellipse cx="64.84697" cy="146.6497" fill="url(#h)" rx="4.3527322" ry="4.3851118"/>
+    <path fill-opacity=".54040402" d="M470.73047 443.00586a69.873011 70.392785 0 0 0-54.44922 26.37695 91.614421 92.295926 0 0 0-23.12305 9.34961 79.797067 79.20785 69.471429 0 0-51.15625 1.29297 79.797067 79.20785 69.471429 0 0-46.19336 102.50586 79.797067 79.20785 69.471429 0 0 88.49024 50.67773 91.614421 92.295926 0 0 0 10.00195 6.5293 69.873011 70.392785 0 0 0 64.3086 43.04688 69.873011 70.392785 0 0 0 69.87304-70.39258 69.873011 70.392785 0 0 0-3.83203-22.73047 91.614421 92.295926 0 0 0 5.37109-30.80664 91.614421 92.295926 0 0 0-.3789-7.75391 69.873011 70.392785 0 0 0 10.96094-37.70312 69.873011 70.392785 0 0 0-69.87305-70.39258z" filter="url(#i)" transform="translate(-1.3276652 1.9242731) scale(.26458)"/>
+    <ellipse cx="121.34037" cy="162.0289" fill="#04f0ff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5291667" rx="18.487234" ry="18.624758"/>
+    <ellipse cx="-121.17233" cy="-172.82381" fill="url(#j)" rx="12.450588" ry="6.9760828" transform="scale(-1)"/>
+    <ellipse cx="124.5476" cy="135.83649" fill="#04f0ff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5291667" rx="18.487234" ry="18.624758"/>
+    <ellipse cx="115.99498" cy="147.8636" fill="#0915e8" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5291667" rx="24.239649" ry="24.419964"/>
+    <ellipse cx="-121.23489" cy="-174.32542" fill="url(#k)" rx="2.6615465" ry="2.6813455" transform="scale(-1)"/>
+    <ellipse cx="-115.47173" cy="-161.35072" fill="url(#l)" rx="17.652481" ry="9.8907108" transform="scale(-1)"/>
+    <path fill="#04f0ff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5291667" d="M90.488183 127.00683a21.112974 20.957077 69.471429 0 0-12.222263 27.12142 21.112974 20.957077 69.471429 0 0 27.02992 12.42332 21.112974 20.957077 69.471429 0 0 3.92532-1.99467 50.102148 49.732198 69.471429 0 0 2.32746-33.69285 21.112974 20.957077 69.471429 0 0-21.060437-3.85722z"/>
+    <ellipse cx="-114.93842" cy="-163.44444" fill="url(#m)" rx="2.8836606" ry="2.9051118" transform="scale(-1)"/>
+    <ellipse cx="94.097076" cy="159.8595" fill="url(#n)" opacity=".97000002" rx="6.374002" ry="6.4214177"/>
+    <ellipse cx="53.882954" cy="199.57715" fill="url(#o)" rx="3.1096065" ry="3.1327386"/>
+  </g>
+</svg>

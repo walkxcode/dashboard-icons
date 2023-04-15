@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" id="svg16" width="60" height="60" version="1.1" viewBox="9.14 141.8 60 60"><metadata id="metadata22"/><style id="style2">.st0,.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#404f54}.st3{fill:#37beff}</style><path id="path4" d="M 69.14,184.47097 39.13948,167.14298 V 148.64773 L 69.14,165.97676 Z" class="st3" style="stroke-width:.104593"/><path id="path6" d="M 9.14,184.47097 39.13948,167.14298 V 148.64773 L 9.14,165.97676 Z" class="st0" style="stroke-width:.104593"/><path id="path8" fill="#ccc" fill-rule="evenodd" d="m 39.13948,141.8 c 11.45925,0 20.75237,9.29312 20.75237,20.75238 0,11.45925 -9.29312,20.75237 -20.75237,20.75237 -11.45926,0 -20.75238,-9.29312 -20.75238,-20.75237 0,-11.45926 9.29312,-20.75238 20.75238,-20.75238" clip-rule="evenodd" style="stroke-width:.104593"/><path id="path10" fill="#e5e5e5" fill-rule="evenodd" d="m 39.13948,141.8 c 11.46343,0 20.75969,9.29312 20.75969,20.75238 0,11.45925 -9.29626,20.75237 -20.75969,20.75237 -6.57997,-4.42848 -9.30254,-13.3503 -9.30254,-20.74087 0,-7.39057 2.72257,-16.32703 9.30254,-20.76388" clip-rule="evenodd" style="stroke-width:.104593"/><path id="path12" d="M 69.14,165.97676 39.13948,183.30475 V 201.8 L 69.14,184.47097 Z" class="st3" style="stroke-width:.104593"/><path id="path14" d="m 9.14,165.97676 29.99948,17.32799 V 201.8 L 9.14,184.47097 Z" class="st0" style="stroke-width:.104593"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="9.14 141.8 573.65 573.65">
+<style type="text/css">
+.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#404F54;}
+.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#E5E5E5;}
+.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#CCCCCC;}
+.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#37BEFF;}
+</style>
+<polygon class="st3" points="582.79,549.77 295.96,384.1 295.96,207.27 582.79,372.95 "/>
+<polygon class="st0" points="9.14,549.77 295.96,384.1 295.96,207.27 9.14,372.95 "/>
+<path class="st2" d="M295.96,141.8c109.56,0,198.41,88.85,198.41,198.41c0,109.56-88.85,198.41-198.41,198.41 c-109.56,0-198.41-88.85-198.41-198.41C97.55,230.65,186.4,141.8,295.96,141.8"/>
+<path class="st1" d="M295.96,141.8c109.6,0,198.48,88.85,198.48,198.41c0,109.56-88.88,198.41-198.48,198.41	c-62.91-42.34-88.94-127.64-88.94-198.3S233.05,184.22,295.96,141.8"/>
+<polygon class="st3" points="582.79,372.95 295.96,538.62 295.96,715.45 582.79,549.77 "/>
+<polygon class="st0" points="9.14,372.95 295.96,538.62 295.96,715.45 9.14,549.77 "/>
+</svg>
