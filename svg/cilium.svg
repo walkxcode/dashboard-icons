@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="69"
+   height="69"
+   viewBox="0 0 69 69"
+   fill="none"
+   version="1.1"
+   id="svg18"
+   sodipodi:docname="logo-lightbg-vertical-color.svg"
+   inkscape:export-filename="cilium.png"
+   inkscape:export-xdpi="1424.6957"
+   inkscape:export-ydpi="1424.6957"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs22" />
+  <sodipodi:namedview
+     id="namedview20"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     id="g537"
+     transform="translate(1.5621728,-0.01968)">
+    <path
+       d="m 27.462627,44.209675 -5.5059,-9.6895 5.5059,-9.6895 h 10.9739 l 5.5059,9.6895 -5.5059,9.6895 z"
+       fill="#e83030"
+       stroke="#141a1f"
+       stroke-width="2.77077"
+       id="path2" />
+    <path
+       d="m 27.462627,67.653975 -5.5059,-9.6894 5.5059,-9.6895 h 10.9739 l 5.5059,9.6895 -5.5059,9.6894 z"
+       fill="#6b91c7"
+       stroke="#141a1f"
+       stroke-width="2.77077"
+       id="path4" />
+    <path
+       d="m 27.462627,20.764375 -5.5059,-9.6895 5.5059,-9.68949 h 10.9739 l 5.5059,9.68949 -5.5059,9.6895 z"
+       fill="#f9c31f"
+       stroke="#141a1f"
+       stroke-width="2.77077"
+       id="path6" />
+    <path
+       d="m 47.802527,55.930775 -5.5059,-9.6895 5.5059,-9.6895 h 10.9738 l 5.5059,9.6895 -5.5059,9.6895 z"
+       fill="#795aa5"
+       stroke="#141a1f"
+       stroke-width="2.77077"
+       id="path8" />
+    <path
+       d="m 47.802527,32.486075 -5.5059,-9.6895 5.5059,-9.6895 h 10.9738 l 5.5059,9.6895 -5.5059,9.6895 z"
+       fill="#f17423"
+       stroke="#141a1f"
+       stroke-width="2.77077"
+       id="path10" />
+    <path
+       d="m 7.0993274,55.930375 -5.5059,-9.6895 5.5059,-9.6895 H 18.073227 l 5.5059,9.6895 -5.5059,9.6895 z"
+       fill="#97c639"
+       stroke="#141a1f"
+       stroke-width="2.77077"
+       id="path12" />
+    <path
+       d="m 7.0993274,32.486075 -5.5059,-9.6895 5.5059,-9.6895 H 18.073227 l 5.5059,9.6895 -5.5059,9.6895 z"
+       fill="#c9db70"
+       stroke="#141a1f"
+       stroke-width="2.77077"
+       id="path14" />
+  </g>
+</svg>
