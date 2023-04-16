@@ -2,7 +2,7 @@ import pathlib
 from pathlib import Path
 
 root = pathlib.Path(__file__).parent.resolve()
-template_path = root / "_TEMPLATE.md"
+icons_template_path = root / "_ICONS_TEMPLATE.md"
 icons_path = root / "ICONS.md"
 
 
@@ -15,7 +15,7 @@ img_tags = [generate_img_tag(x) for x in imgs]
 line_number = 0
 
 # Read the template file
-with open(template_path, "r", encoding="UTF-8") as f:
+with open(icons_template_path, "r", encoding="UTF-8") as f:
     lines = f.readlines()
 # Find the line that starts with "<!-- ICONS -->"
 for line in lines:
