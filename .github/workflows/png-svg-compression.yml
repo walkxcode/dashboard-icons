@@ -15,7 +15,7 @@ jobs:
       - name: Install Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y pngquant
+          sudo apt-get install -y zopfli
           sudo npm install -g svgo
           
       - name: Compress PNGs
