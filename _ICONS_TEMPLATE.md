@@ -13,5 +13,8 @@
     <br />
   </p>
 </p>
+<div align="center">
 <!-- ICONS -->
+  
 <!-- END ICONS -->
+</div>
