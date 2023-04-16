@@ -1,9 +1,8 @@
 name: 🗜️ SVG Compression
 
 on:
-  push:
-    paths:
-      - '**/*.svg'
+  schedule:
+    - cron: '0 0 * * 0'
   workflow_dispatch:
   
 jobs:
@@ -12,7 +11,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-      
       - name: Install Dependencies
         run: |
           sudo apt-get update
@@ -21,10 +19,11 @@ jobs:
       - name: Compress SVGs
         run: |
           echo "🎨  Compressing SVGs..."
-          git diff --name-only --diff-filter=d "${{ github.event.before }}..${{ github.event.after }}" | grep "\.svg$" | xargs -P 4 -I{} sh -c 'echo "Compressing {}"; svgo --quiet --multipass {}' || true
+          find svg/ -iname "*.svg" -print0 | xargs -0 -P 4 -I{} sh -c 'echo "Compressing {}"; svgo --quiet --multipass {}' || true
           
       - name: Load to GitHub
         run: |-
+          git diff
           git config --global user.email "noreply@walkx.fyi"
           git config --global user.name "Dashboard Icons Bot"
           git add -A
