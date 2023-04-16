@@ -59,7 +59,14 @@ $ wget https://raw.githubusercontent.com/walkxcode/dashboard-icons/master/png/ex
 ```
 
 ## 🎨 Icons
-Click [here](ICONS.md) to display all icons 👀.
+**⚠️ Warning!**  Going to this page will load every single icon in the repository. This might cause:
+- 📉 An excessive amount of data use.
+- 💻 System slowdowns.
+	- 🌐 Browser crashes.
+
+If your device cannot handle loading more than 1000 images, we advice to not go to this page.
+
+👀 Click [here](ICONS.md) to display all icons.
 
 ## 🎉 Contributing Guidelines
 Please read the [Contributing Guidelines](CONTRIBUTING.md) before contributing to this project.
