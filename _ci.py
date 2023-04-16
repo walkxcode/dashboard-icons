@@ -3,7 +3,7 @@ from pathlib import Path
 
 root = pathlib.Path(__file__).parent.resolve()
 template_path = root / "_TEMPLATE.md"
-readme_path = root / "README.md"
+icons_path = root / "ICONS.md"
 
 
 def generate_img_tag(file):
@@ -25,7 +25,7 @@ for line in lines:
 # Insert the icons after the line
 lines.insert(line_number + 1, " ".join(img_tags))
 # Write the new file
-with open(readme_path, "w", encoding="UTF-8") as f:
+with open(icons_path, "w", encoding="UTF-8") as f:
     f.write("".join(lines))
     f.write("\n")
 print("Done!")
