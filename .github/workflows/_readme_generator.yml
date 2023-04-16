@@ -1,4 +1,4 @@
-name: 🚀 Generates README
+name: 🚀 Generates ICONS
 
 on:
   push:
@@ -17,10 +17,10 @@ jobs:
           python-version: "3.9"
           architecture: "x64"
 
-    - name: Readme Generator
+    - name: ICONS Generator
       run: |-
         python _ci.py
-        cat README.md
+        cat ICONS.md
 
     - name: Load to GitHub
       run: |-
@@ -28,5 +28,5 @@ jobs:
         git config --global user.email "noreply@walkx.fyi"
         git config --global user.name "Dashboard Icons Bot"
         git add -A
-        git commit -m "🚀 Generates README" || exit 0
+        git commit -m "🚀 Generates ICONS" || exit 0
         git push
