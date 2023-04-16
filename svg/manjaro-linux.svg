@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg height="256" viewBox="0 0 256 256" width="256" xmlns="http://www.w3.org/2000/svg">
- <g fill="#35bf5c" transform="scale(4)">
-  <path d="m0 0v64h18v-46h23v-18z"/>
-  <path d="m23 23v41h18v-41z"/>
-  <path d="m46 0v64h18v-64z"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256"><g fill="#35bf5c"><path d="M0 0v256h72V72h92V0z"/><path d="M92 92v164h72V92zm92-92v256h72V0z"/></g></svg>
