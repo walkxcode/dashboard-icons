@@ -1,8 +1,9 @@
 name: 🗜️ PNG Compression
 
 on:
-  schedule:
-    - cron: '0 0 * * 0'
+  push:
+    paths:
+      - '**/*.png'
   workflow_dispatch:
   
 jobs:
@@ -11,6 +12,7 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+      
       - name: Install Dependencies
         run: |
           sudo apt-get update
@@ -19,11 +21,10 @@ jobs:
       - name: Compress PNGs
         run: |
           echo "🖼️  Compressing PNGs..."
-          find png/ -iname "*.png" -print0 | xargs -0 -P 4 -I{} sh -c 'echo "Compressing {}"; zopflipng -y {} {}' || true
+          git diff --name-only HEAD^..HEAD | grep "\.png$" | xargs -P 4 -I{} sh -c 'echo "Compressing {}"; zopflipng -y {} {}' || true
           
       - name: Load to GitHub
         run: |-
-          git diff
           git config --global user.email "noreply@walkx.fyi"
           git config --global user.name "Dashboard Icons Bot"
           git add -A
