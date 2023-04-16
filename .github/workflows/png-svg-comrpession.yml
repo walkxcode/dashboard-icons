@@ -1,0 +1,53 @@
+name: 🗜️ PNG & SVG Compression
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  compress-images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pngquant
+          sudo npm install -g svgo
+
+      - name: Compress PNGs
+        run: |
+          total_files=$(find png/ -iname "*.png" | wc -l)
+          current_file=1
+          echo "Compressing PNGs..."
+          find png/ -iname "*.png" -print0 | while read -d $'\0' file
+          do
+            echo "Processing file $current_file of $total_files: $file"
+            pngquant --force --ext .png --skip-if-larger --verbose --speed 1 $file
+            current_file=$((current_file+1))
+          done
+
+      - name: Compress SVGs
+        run: |
+          total_files=$(find svg/ -iname "*.svg" | wc -l)
+          current_file=1
+          echo "Compressing SVGs..."
+          find svg/ -iname "*.svg" -print0 | while read -d $'\0' file
+          do
+            echo "Processing file $current_file of $total_files: $file"
+            svgo --quiet --multipass --show-progress $file
+            current_file=$((current_file+1))
+          done
+
+    - name: Load to GitHub
+      run: |-
+        git diff
+        git config --global user.email "noreply@walkx.fyi"
+        git config --global user.name "Dashboard Icons Bot"
+        git add -A
+        git commit -m ":clamp: Compresses PNGs & SVGs" || exit 0
+        git push
