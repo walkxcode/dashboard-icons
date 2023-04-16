@@ -12,8 +12,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-        with:
-          ref: ${{ github.sha }}
           
       - name: Install Dependencies
         run: |
@@ -23,7 +21,8 @@ jobs:
       - name: Compress PNGs
         run: |
           echo "🖼️  Compressing PNGs..."
-          for file in $(git diff --name-only HEAD~1 HEAD); do
+          git fetch --prune --unshallow
+          for file in $(git diff --name-only HEAD^..HEAD); do
             if [[ "$file" == *.png ]]; then
               echo "Compressing $file"
               zopflipng -y "$file" "$file.temp" && mv "$file.temp" "$file"
@@ -32,7 +31,6 @@ jobs:
           
       - name: Load to GitHub
         run: |-
-          git diff
           git config --global user.email "noreply@walkx.fyi"
           git config --global user.name "Dashboard Icons Bot"
           git add -A
