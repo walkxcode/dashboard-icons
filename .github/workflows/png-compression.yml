@@ -12,7 +12,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-          
       - name: Install Dependencies
         run: |
           sudo apt-get update
@@ -21,13 +20,7 @@ jobs:
       - name: Compress PNGs
         run: |
           echo "🖼️  Compressing PNGs..."
-          git fetch --prune --unshallow
-          for file in $(git diff --name-only HEAD^..HEAD); do
-            if [[ "$file" == *.png ]]; then
-              echo "Compressing $file"
-              zopflipng -y "$file" "$file.temp" && mv "$file.temp" "$file"
-            fi
-          done
+          git diff --name-only --diff-filter=ACMRT ${{ github.sha }} | grep '\.png$' | xargs -P 4 -I{} sh -c 'echo "Compressing {}"; zopflipng -y {} {}' || true
           
       - name: Load to GitHub
         run: |-
