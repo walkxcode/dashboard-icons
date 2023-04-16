@@ -12,7 +12,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-      
+        with:
+          ref: ${{ github.sha }}
       - name: Install Dependencies
         run: |
           sudo apt-get update
@@ -21,10 +22,11 @@ jobs:
       - name: Compress PNGs
         run: |
           echo "🖼️  Compressing PNGs..."
-          git diff --name-only HEAD^..HEAD | grep "\.png$" | xargs -P 4 -I{} sh -c 'echo "Compressing {}"; zopflipng -y {} {}' || true
+          find png/ -iname "*.png" -print0 | xargs -0 -P 4 -I{} sh -c 'echo "Compressing {}"; zopflipng -y {} {}' || true
           
       - name: Load to GitHub
         run: |-
+          git diff
           git config --global user.email "noreply@walkx.fyi"
           git config --global user.name "Dashboard Icons Bot"
           git add -A
