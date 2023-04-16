@@ -26,10 +26,10 @@ jobs:
           find png/ -iname "*.png" -print0 | while read -d $'\0' file
           do
             echo "Processing file $current_file of $total_files: $file"
-            pngquant --force --ext .png --skip-if-larger --verbose --speed 1 $file
+            pngquant --force --ext .png --skip-if-larger --verbose --speed 1 $file || true
             current_file=$((current_file+1))
           done
-          
+
       - name: Compress SVGs
         run: |
           total_files=$(find svg/ -iname "*.svg" | wc -l)
@@ -38,7 +38,7 @@ jobs:
           find svg/ -iname "*.svg" -print0 | while read -d $'\0' file
           do
             echo "Processing file $current_file of $total_files: $file"
-            svgo --quiet --multipass --show-progress $file
+            svgo --quiet --multipass --show-progress $file || true
             current_file=$((current_file+1))
           done
           
