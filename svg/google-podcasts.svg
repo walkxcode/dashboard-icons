@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="400" height="400" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g stroke-linecap="round" stroke-width="48.5">
-  <path d="m24.26 186.32v27.351" stroke="#0066d9"/>
-  <path d="m375.74 186.32v27.351" stroke="#4285f4"/>
-  <path d="m112.13 104.27v89.46m0 74.645v27.351" stroke="#ea4335"/>
-  <path d="m287.87 206.26v89.46m0-191.46v27.351" stroke="#34a853"/>
-  <path d="m200 127.06v145.87m0-248.68v27.351m0 296.78v27.351" stroke="#fab908"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400"><g stroke-linecap="round" stroke-width="48.5"><path stroke="#0066d9" d="M24.26 186.32v27.351"/><path stroke="#4285f4" d="M375.74 186.32v27.351"/><path stroke="#ea4335" d="M112.13 104.27v89.46m0 74.645v27.351"/><path stroke="#34a853" d="M287.87 206.26v89.46m0-191.46v27.351"/><path stroke="#fab908" d="M200 127.06v145.87m0-248.68v27.351m0 296.78v27.351"/></g></svg>
