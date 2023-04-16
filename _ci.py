@@ -29,4 +29,4 @@ with open(icons_path, "w", encoding="UTF-8") as f:
     f.write("".join(lines))
     f.write("\n")
 print("Done!")
-print("Please commit the new README.md file.")
+print("Please commit the new ICONS.md file.")
