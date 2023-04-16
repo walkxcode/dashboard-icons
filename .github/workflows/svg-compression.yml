@@ -21,7 +21,7 @@ jobs:
       - name: Compress SVGs
         run: |
           echo "🎨  Compressing SVGs..."
-          git diff --name-only HEAD^..HEAD | grep "\.svg$" | xargs -P 4 -I{} sh -c 'echo "Compressing {}"; svgo --quiet --multipass {}' || true
+          git diff --name-only --diff-filter=d "${{ github.event.before }}..${{ github.event.after }}" | grep "\.svg$" | xargs -P 4 -I{} sh -c 'echo "Compressing {}"; svgo --quiet --multipass {}' || true
           
       - name: Load to GitHub
         run: |-
