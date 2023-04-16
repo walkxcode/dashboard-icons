@@ -1,8 +1,8 @@
 name: 🗜️ PNG & SVG Compression
-'on':
-  push:
-    branches:
-      - main
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
   workflow_dispatch:
   
 jobs:
