@@ -28,4 +28,5 @@ jobs:
           git config --global user.name "Dashboard Icons Bot"
           git add -A
           git commit -m ":clamp: Compresses SVGs" || exit 0
+          git pull
           git push
