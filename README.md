@@ -44,18 +44,18 @@ There are many Dashboards available that you can use with Dashboard Icons. Here 
 
 **Tip!** You can access Dashboard Icons online, faster, by using `https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/example.png`. Just replace `example` with the name of the icon!
 
-To download an icon, simply `Right click > Save image`.
+To download an icon from the [icons page](#-icons), simply `Right click > Save link as`.
 
 For non-desktop operating systems or people who prefer to use the terminal:
 
 ```sh
-$ curl https://raw.githubusercontent.com/walkxcode/dashboard-icons/master/png/example.png > example.png
+$ curl -O https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/example.png
 ```
 
 or
 
 ```sh
-$ wget https://raw.githubusercontent.com/walkxcode/dashboard-icons/master/png/example.png -O example.png
+$ wget https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/example.png
 ```
 
 ## 🎨 Icons
@@ -64,7 +64,7 @@ $ wget https://raw.githubusercontent.com/walkxcode/dashboard-icons/master/png/ex
 - 💻 System slowdowns.
 	- 🌐 Browser crashes.
 
-*If your device cannot handle loading more than 1000 images, we advice to not go to this page.*
+*If your device cannot handle loading more than 1000 images, we advise to not go to this page.*
 
 ➡️ Click [**here**](ICONS.md) to display all icons.
 
