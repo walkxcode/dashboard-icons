@@ -2,12 +2,12 @@ import pathlib
 from pathlib import Path
 
 root = pathlib.Path(__file__).parent.resolve()
-template_path = root / "_TEMPLATE.md"
-readme_path = root / "README.md"
+template_path = root / "TEMPLATE.md"
+path = root / "../ICONS.md"
 
 
 def generate_img_tag(file):
-    return f'<img src="png/{file.name}" alt="{file.stem}" height="50">'
+    return f'<a href="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/{file.name}"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/{file.name}" alt="{file.stem}" height="50"></a>'
 
 
 imgs = sorted(Path("./png").glob("*.png"))
@@ -25,8 +25,8 @@ for line in lines:
 # Insert the icons after the line
 lines.insert(line_number + 1, " ".join(img_tags))
 # Write the new file
-with open(readme_path, "w", encoding="UTF-8") as f:
+with open(path, "w", encoding="UTF-8") as f:
     f.write("".join(lines))
     f.write("\n")
 print("Done!")
-print("Please commit the new README.md file.")
+print("Please commit the new ICONS.md file.")

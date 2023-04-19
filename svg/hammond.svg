@@ -1,7 +1,1 @@
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0" width="12" height="12">
-  <rect width="5.625" height="1.875" x="4.875" y="10.125" fill="#333131"/>
-  <rect width="7.125" height="11.4375" rx="0.75" ry="0.5625" x="4.125" y="0" fill="#333131"/>
-  <rect width="4.875" height="3.75" rx="0.5625" ry="0.375" x="5.25" y="1.125" style="fill:#FFF"/>
-  <path d="M 4.3125,1.3125 C 4.01628,1.456367 3.375,2.155764 3.375,2.938776 v 7.5375 c 0,2.020968 -4.4711812,1.795368 -1.7692125,-2.332163 C 2.26665,7.134576 2.88777,5.809607 3.375,3.726088" style="fill:none;stroke:#333131;stroke-width:0.5625"/>
-  <path d="m 3.375,2.625 0.9375,-1.5 0,2.8125 -0.9375,0 z" fill="#333131"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" version="1.0"><path fill="#333131" d="M4.875 10.125H10.5V12H4.875z"/><rect width="7.125" height="11.438" x="4.125" fill="#333131" rx=".75" ry=".563"/><rect width="4.875" height="3.75" x="5.25" y="1.125" rx=".563" ry=".375" style="fill:#fff"/><path d="M4.313 1.313c-.297.143-.938.843-.938 1.626v7.537c0 2.021-4.471 1.796-1.77-2.332.662-1.01 1.283-2.334 1.77-4.418" style="fill:none;stroke:#333131;stroke-width:.5625"/><path fill="#333131" d="m3.375 2.625.938-1.5v2.813h-.938z"/></svg>
