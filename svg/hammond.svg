@@ -1,0 +1,7 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0" width="12" height="12">
+  <rect width="5.625" height="1.875" x="4.875" y="10.125" fill="#333131"/>
+  <rect width="7.125" height="11.4375" rx="0.75" ry="0.5625" x="4.125" y="0" fill="#333131"/>
+  <rect width="4.875" height="3.75" rx="0.5625" ry="0.375" x="5.25" y="1.125" style="fill:#FFF"/>
+  <path d="M 4.3125,1.3125 C 4.01628,1.456367 3.375,2.155764 3.375,2.938776 v 7.5375 c 0,2.020968 -4.4711812,1.795368 -1.7692125,-2.332163 C 2.26665,7.134576 2.88777,5.809607 3.375,3.726088" style="fill:none;stroke:#333131;stroke-width:0.5625"/>
+  <path d="m 3.375,2.625 0.9375,-1.5 0,2.8125 -0.9375,0 z" fill="#333131"/>
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Profile Picture</title>
+    <g id="Profile-Picture" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Computer" transform="translate(157.560547, 4.753906)">
+            <polygon id="Outline" stroke="#000000" stroke-width="7" fill="#000000" points="33.5410156 25.2460938 34.0253906 121.242188 26.7207031 121.242188 -1.39655874e-15 149.769531 -3.27527183e-15 194.955078 210.662109 194.955078 236.152344 169.455078 236.152344 121.242188 209.662109 121.242188 209.445312 0.462890625 58.4589844 2.1946764e-18"></polygon>
+            <polygon id="Top" fill="#BFBFBF" points="27.1972656 124.736328 3.46484375 149.769531 196.215961 149.769531 220.464844 124.736328"></polygon>
+            <polygon id="MonitorTop" fill="#BFBFBF" points="60.7324219 2.49023437 37.4394531 25.7363281 181.439453 25.7363281 206.0625 2.76953125"></polygon>
+            <polygon id="Monitor-Shadow" fill="#808080" points="176.439453 25.7363281 176.439453 142.736328 37.4394531 142.736328"></polygon>
+            <polygon id="Screen-Highlight" fill="#FFFFFF" points="173.439453 31.2460938 173.439453 124.246094 43.4394531 124.246094"></polygon>
+            <polygon id="Monitor-Highlight" fill="#FFFFFF" transform="translate(109.439453, 84.246094) scale(-1, -1) translate(-109.439453, -84.246094) " points="181.439453 25.2460938 181.439453 143.246094 37.4394531 143.246094"></polygon>
+            <polygon id="Screen-Shadow" fill="#808080" transform="translate(108.439453, 78.236328) scale(-1, -1) translate(-108.439453, -78.236328) " points="173.439453 31.7363281 173.439453 124.736328 43.4394531 124.736328"></polygon>
+            <rect id="Screen-indent" fill="#000077" x="49.4394531" y="37.2460938" width="117" height="82"></rect>
+            <rect id="Screen" fill="#0000DB" x="56.4394531" y="44.2460938" width="110" height="75"></rect>
+            <rect id="Monitor-Front" fill="#BFBFBF" x="43.4394531" y="124.246094" width="130" height="13"></rect>
+            <rect id="CPU-Front" fill="#BFBFBF" x="15.4394531" y="163.246094" width="181" height="19"></rect>
+            <rect id="Disk" fill="#000000" x="121.439453" y="172.246094" width="63" height="10"></rect>
+            <rect id="Logo" fill="#BFBFBF" x="3.43945312" y="182.246094" width="12" height="10"></rect>
+            <polygon id="Monitor-Side" fill="#808080" points="173.0625 31.6380591 206.0625 2.76953125 206.0625 124.246094 184.439453 142.769531 173.0625 142.769531"></polygon>
+            <polygon id="CPU" fill="#FFFFFF" points="232.871094 124.736328 196.439453 163.462891 15.8496094 163.462891 15.8496094 182.048828 2.94921875 182.048828 2.94921875 149.769531 196.439453 149.769531 220.464844 124.736328"></polygon>
+            <polygon id="CPU-Lower" fill="#808080" points="232.871094 124.736328 196.439453 163.462891 196.439453 182.246094 15.4394531 182.246094 15.4394531 192.246094 208.837891 192.246094 232.871094 169.214844"></polygon>
+            <polyline id="Monitor-Edge" stroke="#000000" stroke-width="7" points="209.662109 121.242188 184.439453 146.263672 34.0253906 146.263672 34.0253906 121.242188"></polyline>
+        </g>
+        <g id="Computer-2" transform="translate(3.560547, 199.753906)">
+            <polygon id="Outline-2" stroke="#000000" stroke-width="7" fill="#000000" points="33.5410156 25.2460938 34.0253906 121.242188 26.7207031 121.242188 -1.39655874e-15 149.769531 -3.27527183e-15 194.955078 210.662109 194.955078 236.152344 169.455078 236.152344 121.242188 209.662109 121.242188 209.445312 0.462890625 58.4589844 2.1946764e-18"></polygon>
+            <polygon id="Top-2" fill="#BFBFBF" points="27.1972656 124.736328 3.46484375 149.769531 196.215961 149.769531 220.464844 124.736328"></polygon>
+            <polygon id="MonitorTop-2" fill="#BFBFBF" points="60.7324219 2.49023437 37.4394531 25.7363281 181.439453 25.7363281 206.0625 2.76953125"></polygon>
+            <polygon id="Monitor-Shadow-2" fill="#808080" points="176.439453 25.7363281 176.439453 142.736328 37.4394531 142.736328"></polygon>
+            <polygon id="Screen-Highlight-2" fill="#FFFFFF" points="173.439453 31.2460938 173.439453 124.246094 43.4394531 124.246094"></polygon>
+            <polygon id="Monitor-Highlight-2" fill="#FFFFFF" transform="translate(109.439453, 84.246094) scale(-1, -1) translate(-109.439453, -84.246094) " points="181.439453 25.2460938 181.439453 143.246094 37.4394531 143.246094"></polygon>
+            <polygon id="Screen-Shadow-2" fill="#808080" transform="translate(108.439453, 78.236328) scale(-1, -1) translate(-108.439453, -78.236328) " points="173.439453 31.7363281 173.439453 124.736328 43.4394531 124.736328"></polygon>
+            <rect id="Screen-indent-2" fill="#000077" x="49.4394531" y="37.2460938" width="117" height="82"></rect>
+            <rect id="Screen-2" fill="#0000DB" x="56.4394531" y="44.2460938" width="110" height="75"></rect>
+            <rect id="Monitor-Front-2" fill="#BFBFBF" x="43.4394531" y="124.246094" width="130" height="13"></rect>
+            <rect id="CPU-Front-2" fill="#BFBFBF" x="15.4394531" y="163.246094" width="181" height="19"></rect>
+            <rect id="Disk-2" fill="#000000" x="121.439453" y="172.246094" width="63" height="10"></rect>
+            <rect id="Logo-2" fill="#BFBFBF" x="3.43945312" y="182.246094" width="12" height="10"></rect>
+            <polygon id="Monitor-Side-2" fill="#808080" points="173.0625 31.6380591 206.0625 2.76953125 206.0625 124.246094 184.439453 142.769531 173.0625 142.769531"></polygon>
+            <polygon id="CPU-2" fill="#FFFFFF" points="232.871094 124.736328 196.439453 163.462891 15.8496094 163.462891 15.8496094 182.048828 2.94921875 182.048828 2.94921875 149.769531 196.439453 149.769531 220.464844 124.736328"></polygon>
+            <polygon id="CPU-Lower-2" fill="#808080" points="232.871094 124.736328 196.439453 163.462891 196.439453 182.246094 15.4394531 182.246094 15.4394531 192.246094 208.837891 192.246094 232.871094 169.214844"></polygon>
+            <polyline id="Monitor-Edge-2" stroke="#000000" stroke-width="7" points="209.662109 121.242188 184.439453 146.263672 34.0253906 146.263672 34.0253906 121.242188"></polyline>
+        </g>
+        <polygon id="Connection" stroke="#000000" stroke-width="6" fill="#FFFF00" stroke-linejoin="round" points="288.128906 71.2734375 204.144531 161.787109 262.439453 161.787109 108.257812 279.775391 194.310547 187.759766 132.611328 187.759766"></polygon>
+    </g>
+</svg>

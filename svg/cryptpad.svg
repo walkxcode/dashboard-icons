@@ -1,0 +1,22 @@
+<svg width="280" height="349" version="1.1" viewBox="0 0 74.083 92.34" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <g>
+  <g transform="translate(-640.42 -172.99)" style="fill:#ffffff">
+   <g style="fill:#ffffff">
+    <path d="m644.02 176.9h44.386l22.414 20.826v24.899c0 26.166-21.414 32.228-33.117 38.409-12.815-5.8945-32.794-12.329-33.117-38.409z" style="fill:#ffffff"/>
+   </g>
+   <g style="fill:#ffffff">
+    <path d="m644.02 176.9h44.386l22.414 20.826v24.899c0 26.166-21.414 32.228-33.117 38.409-12.815-5.8945-32.794-12.329-33.117-38.409z" style="fill:#ffffff"/>
+   </g>
+  </g>
+  <g transform="translate(-125.38 -26.449)">
+   <path d="m128.98 30.355 0.55499 39.644h33.141l4e-3 -39.644z" style="fill-opacity:.39608;fill:#0087ff"/>
+   <path d="m162.69 70 3e-3 43.946c12.825-5.8796 32.762-17.077 33.127-43.157l0.0108-0.78911z" style="fill-opacity:.39608;fill:#0087ff"/>
+   <path d="m128.98 30.355h44.386l22.414 20.826v24.899c0 26.166-21.414 32.228-33.117 38.409-12.815-5.8945-32.794-12.329-33.117-38.409z" style="fill:none;stroke-width:5.2922;stroke:#0087ff"/>
+   <path d="m171.32 29.811v23.04h24.575" style="fill:none;stroke-width:5.2917;stroke:#0087ff"/>
+   <g transform="matrix(1.1107 0 0 1.1107 18.926 21.932)" style="fill:#0087ff">
+    <path d="m137.23 42.719a8.1185 8.1185 0 0 1-8.1185 8.1185 8.1185 8.1185 0 0 1-8.1185-8.1185 8.1185 8.1185 0 0 1 8.1185-8.1185 8.1185 8.1185 0 0 1 8.1185 8.1185z" style="fill:#0087ff"/>
+    <path d="m127 42.651h4.2265l4.2333 22.354h-12.693z" style="fill:#0087ff"/>
+   </g>
+  </g>
+ </g>
+</svg>
