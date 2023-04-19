@@ -7,7 +7,7 @@ path = root / "../ICONS.md"
 
 
 def generate_img_tag(file):
-    return f'<img src="png/{file.name}" alt="{file.stem}" height="50">'
+    return f'<a href="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/{file.name}"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/{file.name}" alt="{file.stem}" height="50"></a>'
 
 
 imgs = sorted(Path("./png").glob("*.png"))
