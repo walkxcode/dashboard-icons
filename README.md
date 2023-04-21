@@ -73,7 +73,7 @@ Please read the [Contributing Guidelines](CONTRIBUTING.md) before contributing t
 
 ## 📜 Legal
 
-(Almost) All product names, trademarks, and registered trademarks in the images in this repository are the property of their respective owners. All images in this repository are used by the users of the Dashboard Icons project for identification purposes only.
+Please read our [LICENSE](LICENSE) for information regarding the use of our software and assets. By accessing or using this repository, you agree to be bound by the terms and conditions of the license.
 
-The use of these names, trademarks, and brands appearing in these image files does not imply endorsement.
+If you have any questions or concerns regarding the license, please contact us at contact@walkx.fyi before using or distributing the contents of this repository.
 
