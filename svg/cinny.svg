@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="18" height="18"><circle cx="9" cy="9" r="8.5" fill="#FFF"/><path d="M9 0C4 0 0 4 0 9s4 9 9 9 9-4 9-9-4-9-9-9zM1.2 10.8l3.5-2.3v-.3C4.7 6.4 6 5 7.8 4.8h.4c1.2 0 2.3.6 2.9 1.6.3-.1.6-.1.9-.1.4 0 .8 0 1.2.1.7.2 1.4.5 2 .9-.6-.2-1.2-.3-1.9-.3-1.2 0-2.2.4-2.9 1.4-.7.9-1.1 2-1.1 3.2 0 1.5-.4 2.9-1.3 4.2-.3.4-.5.7-.8 1-3-.7-5.3-3-6-6z"/><circle cx="9.5" cy="6.4" r=".5"/></svg>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="18px" height="18px" viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
+<defs>
+</defs>
+<g>
+	<g>
+		<circle fill="#FFFFFF" cx="9" cy="9" r="8.5"/>
+	</g>
+	<g>
+		<path d="M9,0C4,0,0,4,0,9c0,5,4,9,9,9c5,0,9-4,9-9C18,4,14,0,9,0z M1.2,10.8l3.5-2.3c0-0.1,0-0.2,0-0.3c0-1.8,1.3-3.2,3.1-3.4
+			c0.1,0,0.2,0,0.4,0c1.2,0,2.3,0.6,2.9,1.6c0.3-0.1,0.6-0.1,0.9-0.1c0.4,0,0.8,0,1.2,0.1c0.7,0.2,1.4,0.5,2,0.9
+			C14.6,7.1,14,7,13.3,7c-1.2,0-2.2,0.4-2.9,1.4c-0.7,0.9-1.1,2-1.1,3.2c0,1.5-0.4,2.9-1.3,4.2c-0.3,0.4-0.5,0.7-0.8,1
+			C4.2,16.1,1.9,13.8,1.2,10.8z"/>
+		<circle cx="9.5" cy="6.4" r="0.5"/>
+	</g>
+</g>
+</svg>

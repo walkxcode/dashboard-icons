@@ -1,1 +1,95 @@
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="plex-logo" width="1000" height="460.897" x="0" y="0" version="1.1"><style id="style2" type="text/css">.st0{fill:#fff}</style><path id="path4" d="M164.19 82.432c-39.866 0-65.541 11.487-87.163 38.514v-29.73H0v366.216s1.351.676 5.405 1.352c5.406 1.351 33.784 7.432 54.73-10.135 18.243-15.54 22.297-33.784 22.297-54.054v-52.703c22.298 23.649 47.298 33.784 82.433 33.784 75.676 0 133.784-61.487 133.784-143.244 0-88.513-56.081-150-134.46-150zm-14.866 223.65c-42.567 0-76.351-35.136-76.351-77.704 0-41.892 39.865-75.675 76.351-75.675 43.244 0 76.352 33.108 76.352 76.351s-33.784 77.027-76.352 77.027z" class="st0" style="fill:#000;stroke-width:6.75675678"/><path id="path6" d="M408.108 223.649c0 31.756 3.378 70.27 34.46 112.162.675.675 2.027 2.702 2.027 2.702C431.757 360.135 416.216 375 395.27 375c-16.216 0-32.432-8.784-45.946-23.649-14.189-16.216-20.946-37.162-20.946-59.46V0h79.054z" class="st0" style="fill:#000;stroke-width:6.75675678"/><path id="polygon8" d="m117.9 33.9-13.8-20.4h14.2L132 33.9l-13.7 20.3h-14.2z" style="fill:#ebaf00" transform="scale(6.75676)"/><path id="polygon10" d="M135.7 31.6 148 13.5h-14.2l-5.1 7.5z" class="st0" style="fill:#000" transform="scale(6.75676)"/><path id="path12" d="m869.595 316.216 16.216 22.298C901.35 362.838 921.62 375 945.27 375c25-.676 42.567-22.297 49.324-30.405 0 0-12.163-10.811-27.703-29.054-20.946-24.325-48.649-68.92-49.324-70.946z" class="st0" style="fill:#000;stroke-width:6.75675678"/><path id="path16" d="M632.432 287.162c-16.216 14.865-27.027 22.973-49.324 22.973-39.865 0-62.838-28.378-66.216-59.46h211.486c1.352-4.053 2.027-9.459 2.027-18.243 0-85.81-62.837-150-145.27-150-78.378 0-142.567 65.541-142.567 147.298 0 81.08 64.189 145.27 144.594 145.27 56.081 0 104.73-31.757 131.081-87.838zm-46.621-139.865c35.135 0 61.486 22.973 67.567 53.379H519.595c6.756-31.757 31.756-53.379 66.216-53.379z" class="st0" style="fill:#000;stroke-width:6.75675678"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="plex-logo"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1000 460.89727"
+   xml:space="preserve"
+   sodipodi:docname="plex-logo.svg"
+   width="1000"
+   height="460.89725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata25"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs23">
+	
+	
+
+		
+		
+		
+		
+		
+	</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#111111"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview21"
+   showgrid="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:zoom="0.27956081"
+   inkscape:cx="783.06912"
+   inkscape:cy="-132.85701"
+   inkscape:window-x="1912"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="plex-logo" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#EBAF00;}
+</style>
+<path
+   class="st0"
+   d="m 164.18919,82.43243 c -39.86487,0 -65.540543,11.48648 -87.162163,38.51351 V 91.21621 H 0 v 366.21621 c 0,0 1.3513514,0.67567 5.4054053,1.35135 5.4054057,1.35135 33.7837827,7.43243 54.7297287,-10.13514 18.243244,-15.54054 22.297295,-33.78378 22.297295,-54.05405 v -52.7027 c 22.297301,23.64864 47.297301,33.78378 82.432431,33.78378 75.67567,0 133.78378,-61.48648 133.78378,-143.24323 0,-88.51352 -56.08108,-150 -134.45945,-150 z m -14.86487,223.64864 c -42.56756,0 -76.351351,-35.13513 -76.351351,-77.7027 0,-41.89189 39.864871,-75.67567 76.351351,-75.67567 43.24324,0 76.35135,33.1081 76.35135,76.35135 0,43.24324 -33.78378,77.02702 -76.35135,77.02702 z"
+   id="path4"
+   inkscape:connector-curvature="0"
+   style="fill:#000000;stroke-width:6.75675678" /><path
+   class="st0"
+   d="m 408.1081,223.64864 c 0,31.75676 3.37838,70.27027 34.45946,112.16216 0.67567,0.67567 2.02702,2.7027 2.02702,2.7027 -12.83783,21.62162 -28.37837,36.48648 -49.32432,36.48648 -16.21622,0 -32.43243,-8.78378 -45.94595,-23.64864 -14.18918,-16.21622 -20.94594,-37.16216 -20.94594,-59.45946 V 0 h 79.05405 z"
+   id="path6"
+   inkscape:connector-curvature="0"
+   style="fill:#000000;stroke-width:6.75675678" /><polygon
+   class="st1"
+   points="117.9,33.9 104.1,13.5 118.3,13.5 132,33.9 118.3,54.2 104.1,54.2 "
+   id="polygon8"
+   style="fill:#ebaf00"
+   transform="scale(6.7567568)" /><polygon
+   class="st0"
+   points="135.7,31.6 148,13.5 133.8,13.5 128.7,21 "
+   id="polygon10"
+   style="fill:#000000"
+   transform="scale(6.7567568)" /><path
+   class="st0"
+   d="m 869.59458,316.2162 c 0,0 16.2162,22.2973 16.2162,22.2973 15.54058,24.32432 35.8108,36.48648 59.45949,36.48648 25,-0.67567 42.56752,-22.29729 49.3243,-30.4054 0,0 -12.16218,-10.81081 -27.7027,-29.05405 -20.94598,-24.32432 -48.64868,-68.91892 -49.3243,-70.94594 z"
+   id="path12"
+   inkscape:connector-curvature="0"
+   style="fill:#000000;stroke-width:6.75675678" /><path
+   style="fill:#000000;stroke-width:6.75675678"
+   inkscape:connector-curvature="0"
+   id="path16"
+   d="m 632.43242,287.16215 c -16.21622,14.86486 -27.02703,22.97297 -49.32432,22.97297 -39.86487,0 -62.83784,-28.37837 -66.21622,-59.45945 h 211.4865 c 1.35131,-4.05406 2.027,-9.45946 2.027,-18.24324 0,-85.81082 -62.83783,-150 -145.27026,-150 -78.37837,0 -142.56756,65.54054 -142.56756,147.29729 0,81.08108 64.18919,145.27026 144.59459,145.27026 56.08108,0 104.72973,-31.75675 131.08105,-87.83783 z M 585.8108,147.29729 c 35.13513,0 61.48648,22.97297 67.56756,53.37838 H 519.59458 c 6.75676,-31.75676 31.75676,-53.37838 66.21622,-53.37838 z"
+   class="st0" />
+</svg>
