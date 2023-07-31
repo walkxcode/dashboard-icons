@@ -40,7 +40,6 @@ with ICONS.open("w", encoding="UTF-8") as f:
     f.write("\n\n")
     f.write(ICONS_END)
     f.write(suffix)
-    f.write("\n")
 
 print("Done!")
 print("Please commit the new ICONS.md file.")

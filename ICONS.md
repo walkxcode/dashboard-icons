@@ -13,6 +13,7 @@
     <br />
   </p>
 </p>
+<div align="center">
 <!-- ICONS -->
 
 | Icon filename | Preview |
@@ -1359,6 +1360,4 @@
 | `zwavejs2mqtt.png` | <a href="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/zwavejs2mqtt.png"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/zwavejs2mqtt.png" alt="zwavejs2mqtt" height="50"></a> |
 
 <!-- END ICONS -->
-
-
-
+</div>
