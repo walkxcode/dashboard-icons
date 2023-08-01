@@ -4,24 +4,38 @@ CDN_URL = "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/"
 ICONS_START = "<!-- ICONS -->"
 ICONS_END = "<!-- END ICONS -->"
 TABLE_HEAD: str = (
-  "\n\n"
-  "| Icon filename | Preview |\n"
-  "| ------------- | ------- |\n"
+    "\n\n"
+    "| Icon name | SVG Support | Preview |\n"
+    "| --------- | ----------- | ------- |\n"
 )
 
-ROOT = Path(__file__).parent.parent.resolve()
+ROOT = Path(__file__).parents[1].resolve()
 PNG_FOLDER = ROOT / "png"
 ICONS = ROOT / "ICONS.md"
 
 
+def is_svg_support(file: Path) -> str:
+    path = file.parents[1] / 'svg' / f"{file.stem}.svg"
+    if path.exists():
+        return "✅"
+    return "❌"
+
+
 def generate_img_tag(file: Path) -> str:
-    return f'<a href="{CDN_URL}{file.name}"><img src="{CDN_URL}{file.name}" alt="{file.stem}" height="50"></a>'
+    return (
+        f'<a href="{CDN_URL}{file.name}">'
+        f'<img src="{CDN_URL}{file.name}" alt="{file.stem}" height="50"></a>'
+    )
 
 
 def generate_table_row(file: Path) -> str:
-    return f"| `{file.name}` | {generate_img_tag(file)} |"
+    return f"| `{file.stem}` | {is_svg_support(file)} | {generate_img_tag(file)} |"
 
-TABLE_ROWS = "\n".join(generate_table_row(x) for x in sorted(PNG_FOLDER.glob("*.png")))
+
+TABLE_ROWS = "\n".join(
+    generate_table_row(x)
+    for x in sorted(PNG_FOLDER.glob("*.png"))
+)
 
 # Read the template file
 with ICONS.open("r", encoding="UTF-8") as f:
