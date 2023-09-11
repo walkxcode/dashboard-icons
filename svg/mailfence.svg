@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="500"
+   viewBox="20.52 9 327.75389 222"
+   width="707"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="mailfence-seeklogo.com.svg"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1"
+     inkscape:cx="1264"
+     inkscape:cy="250.5"
+     inkscape:window-width="3052"
+     inkscape:window-height="1776"
+     inkscape:window-x="58"
+     inkscape:window-y="1080"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="a2" />
+  <a
+     xlink:href="http://free.arinco.org/mail/mailfence/"
+     id="a2">
+    <path
+       d="m 322.5,9.117 c -0.117,0.226 -0.217,0.457 -0.352,0.68 L 233.35,163.6 c -3.082,5.344 -8.678,8.332 -14.432,8.332 a 16.61,16.61 0 0 1 -8.314,-2.232 c -7.957,-4.6 -10.688,-14.783 -6.094,-22.746 L 284.162,9 H 86.297 L 124.195,69.65 105.334,102.31 47.063,9.062 C 32.361,9.703 20.52,21.894 20.52,36.75 v 166.5 c 0,14.49 11.262,26.461 25.471,27.633 0.117,-0.229 0.217,-0.457 0.346,-0.68 L 135.136,76.397 c 4.6,-7.966 14.783,-10.693 22.746,-6.097 7.963,4.6 10.693,14.78 6.094,22.746 L 84.328,231 h 197.865 l -37.805,-60.498 18.855,-32.666 58.178,93.105 c 14.707,-0.645 26.549,-12.838 26.549,-27.691 V 36.75 C 347.971,22.257 336.703,10.289 322.5,9.117 Z M 163.418,172.699 a 16.61,16.61 0 0 1 -8.314,-2.232 c -7.963,-4.6 -10.688,-14.783 -6.094,-22.746 l 41.625,-72.094 c 4.6,-7.966 14.789,-10.69 22.746,-6.094 7.963,4.597 10.693,14.78 6.094,22.743 l -41.625,72.097 c -3.082,5.344 -8.678,8.326 -14.432,8.326 z"
+       fill="#2b81bd"
+       id="path1" />
+  </a>
+</svg>
