@@ -1,2 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve" height="32" width="32" enable-background="new 0 0 595.275 311.111" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 32 32"><rect rx="5" ry="5" height="32" width="32" y="-.0000052588" x="0" fill="#0082c9"/><g transform="matrix(.89286 0 0 .89286 520.21 -.19331)"><path fill="#fff" d="m-572.71 3.5765c-1.108 0-2 0.892-2 2v4c0 1.108 0.892 2 2 2s2-0.892 2-2v-4c0-1.108-0.892-2-2-2zm16 0c-1.108 0-2 0.892-2 2v4c0 1.108 0.892 2 2 2s2-0.892 2-2v-4c0-1.108-0.892-2-2-2zm-13 4v2c0 1.662-1.338 3-3 3s-3-1.338-3-3v-1.875c-1.728 0.44254-3 2.0052-3 3.875v16c0 2.216 1.784 4 4 4h20c2.216 0 4-1.784 4-4v-16c0-1.8698-1.272-3.4325-3-3.875v1.875c0 1.662-1.338 3-3 3s-3-1.338-3-3v-2h-10zm-5.9062 9h21.812c0.0554 0 0.0937 0.03835 0.0937 0.09375v11.812c0 0.0554-0.0384 0.09375-0.0937 0.09375h-21.812c-0.0554 0-0.0937-0.03835-0.0937-0.09375v-11.812c0-0.0554 0.0384-0.09375 0.0937-0.09375z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.8.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0082C9;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path id="background" class="st0" d="M5,0h22c2.8,0,5,2.2,5,5v22c0,2.8-2.2,5-5,5H5c-2.8,0-5-2.2-5-5V5C0,2.2,2.2,0,5,0z"/>
+<g transform="matrix(.89286 0 0 .89286 520.21 -.19331)">
+	<path class="st1" d="M-572.7,4.1c-1.1,0-2,0.9-2,2v4c0,1.1,0.9,2,2,2s2-0.9,2-2v-4C-570.7,5-571.6,4.1-572.7,4.1z M-556.7,4.1
+		c-1.1,0-2,0.9-2,2v4c0,1.1,0.9,2,2,2s2-0.9,2-2v-4C-554.7,5-555.6,4.1-556.7,4.1z M-569.7,8.1v2c0,1.7-1.3,3-3,3s-3-1.3-3-3V8.3
+		c-1.7,0.4-3,2-3,3.9v16c0,2.2,1.8,4,4,4h20c2.2,0,4-1.8,4-4v-16c0-1.9-1.3-3.4-3-3.9v1.9c0,1.7-1.3,3-3,3s-3-1.3-3-3v-2h-10V8.1z
+		 M-575.6,17.1h21.8c0.1,0,0.1,0,0.1,0.1V29c0,0.1,0,0.1-0.1,0.1h-21.8c-0.1,0-0.1,0-0.1-0.1L-575.6,17.1
+		C-575.7,17.2-575.7,17.1-575.6,17.1z"/>
+</g>
+</svg>
