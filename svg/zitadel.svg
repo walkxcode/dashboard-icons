@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512.02" height="512" clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" version="1.1" viewBox="0 0 512.02 512" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+    <g transform="matrix(3.221 -.86307 .86307 3.221 -5325.9 -1721.3)" fill="#101010">
+                <path d="m1493.5 1056.4v-19.38h3v24.62l-70.48-41.24 70.48-40.988v24.608h-3v-19.392l-61.52 35.782z" fill="#101010"/>
+            </g><g transform="matrix(20.104 0 0 11.383 -259093 -516.46)">
+                <g transform="matrix(-.042931 -.28297 .16022 -.075821 12884 137.39)">
+                    <path d="m212.52 110h-12.125l-10.392-18-10.392 18h-12.125l22.517-39z" fill="url(#f)"/>
+                </g>
+                <g transform="matrix(.16022 .075821 -.042931 .28297 12879 10.875)">
+                    <path d="m212.52 110h-12.125l-10.392-18-10.392 18h-12.125l22.517-39z" fill="url(#e)"/>
+                </g>
+                <g transform="matrix(-.11729 .20715 -.11729 -.20715 12944 65.7)">
+                    <path d="m212.52 110h-12.125l-10.392-18-10.392 18h-12.125l22.517-39z" fill="url(#d)"/>
+                </g>
+                <g transform="matrix(-.16022 -.075821 .042931 -.28297 12917 132.2)">
+                    <path d="m139.62 117 9.378 25h-18.756z" fill="url(#c)"/>
+                </g>
+                <g transform="matrix(-.11729 .20715 .11729 .20715 12898 5.8751)">
+                    <path d="m139.62 117 9.378 25h-18.756z" fill="url(#b)"/>
+                </g>
+                <g transform="matrix(-.042931 -.28297 -.16022 .075821 12937 97.644)">
+                    <path d="m139.62 117 9.378 25h-18.756z" fill="url(#a)"/>
+                </g>
+            </g><g fill="#101010"><g transform="matrix(3.221 -.86307 .86307 3.221 -5329.9 -1720.4)">
+                <circle cx="1496" cy="1004" r="7" fill="#101010"/>
+            </g><g transform="matrix(3.221 -.86307 .86307 3.221 -5299.8 -1614.1)">
+                <circle cx="1496" cy="1004" r="7" fill="#101010"/>
+            </g><g transform="matrix(3.221 -.86307 .86307 3.221 -5281.7 -1543.3)">
+                <circle cx="1496" cy="1004" r="7" fill="#101010"/>
+            </g><g transform="matrix(3.221 -.86307 .86307 3.221 -5526.9 -1610.7)">
+                <circle cx="1496" cy="1004" r="7" fill="#101010"/>
+            </g><g transform="matrix(3.221 -.86307 .86307 3.221 -5348 -1791.3)">
+                <circle cx="1496" cy="1004" r="7" fill="#101010"/>
+            </g><g transform="matrix(3.221 -.86307 .75519 2.8184 -5036.4 -641.25)">
+                <path d="m1499.3 757.79s-1.89-1.298-2.26-2.587c-0.29-1.018-0.43-4.538-0.46-5.2-0.13-2.697 2.67-4.356 2.67-4.356l-9.2 0.191s3.14-0.122 3.45 4.165c0.05 0.661-0.23 3.476-0.46 5.2-0.09 1.247-1.8 2.468-1.8 2.468z" fill="#101010"/>
+            </g><g transform="matrix(3.221 -.86307 .75519 2.8184 -4990.2 -464.1)">
+                <path d="m1495 760v-16"/>
+            
+                <path d="m1498.3 757.08s-1.56-0.617-1.62-2.277c0-1.142-0.01-1.519 0-2.784-0.03-0.682-0.06-1.408 0-2.067 0.13-3.113 1.85-3.793 1.85-3.793l-7.04-0.225s1.91 0.788 2.19 3.899c0.06 0.659 0.04 1.698 0 2.379-0.01 1.122-0.01 1.204 0 2.309 0.03 1.816-1.07 2.309-1.07 2.309z"/>
+            </g><g transform="matrix(3.221 -.86307 .75519 2.8184 -5227.4 -524.82)">
+                <path d="m1496.2 759.47 59.37-39.459"/>
+            
+                <path d="m1500.9 762.06s-1-1.656 2.23-4.6c1.82-1.659 4.24-3.305 6.89-5.201 4.84-3.465 10.7-7.315 16.54-11.206 4.93-3.283 9.86-6.57 14.3-9.369 3.7-2.331 7.03-4.384 9.72-5.88 0.53-0.294 1.06-0.471 1.51-0.771 2.68-1.772 4.8-0.061 4.8-0.061l-4.62-8.686s-0.24 3.172-2.23 4.715c-0.43 0.336-0.85 0.744-1.33 1.123-2.47 1.933-5.68 4.224-9.28 6.747-4.33 3.031-9.26 6.299-14.2 9.571-5.84 3.876-11.67 7.796-16.7 10.891-2.75 1.694-5.21 3.248-7.36 4.269-3.14 1.488-5.85 0.019-5.85 0.019z"/>
+            </g><g transform="matrix(3.221 -.86307 -.75519 -2.8184 -4077.4 3767.3)">
+                <path d="m1496.2 759.47 59.37-39.459"/>
+            
+                <path d="m1496.1 754.36s1.1 1.245 5.03-0.764c2.12-1.089 4.61-2.575 7.36-4.269 5.03-3.095 10.86-7.015 16.7-10.891 4.94-3.272 9.75-6.606 14.08-9.636 3.6-2.523 10.09-6.743 10.54-7.052 2.94-2.02 2.37-3.554 2.37-3.554l3.1 5.956s-1.51-1.247-3.91 0.529c-0.44 0.325-6.85 4.668-10.55 6.999-4.44 2.799-9.37 6.086-14.3 9.369-5.84 3.891-11.7 7.741-16.54 11.206-2.65 1.896-5.09 3.516-6.89 5.201-3.62 3.385-1.83 5.827-1.83 5.827z"/>
+            </g>
+    </g><defs>
+        <linearGradient id="f" x2="1" gradientTransform="matrix(-41.598 155.25 -155.25 -41.598 201.52 76.839)" gradientUnits="userSpaceOnUse"><stop stop-color="#ff8f00" offset="0"/><stop stop-color="#fe00ff" offset="1"/></linearGradient>
+        <linearGradient id="e" x2="1" gradientTransform="matrix(155.25 -41.598 41.598 155.25 110.08 195.51)" gradientUnits="userSpaceOnUse"><stop stop-color="#ff8f00" offset="0"/><stop stop-color="#fe00ff" offset="1"/></linearGradient>
+        <linearGradient id="d" x2="1" gradientTransform="matrix(-113.65 -113.65 113.65 -113.65 258.31 215.62)" gradientUnits="userSpaceOnUse"><stop stop-color="#ff8f00" offset="0"/><stop stop-color="#fe00ff" offset="1"/></linearGradient>
+        <linearGradient id="c" x2="1" gradientTransform="matrix(-155.25 41.598 -41.598 -155.25 220.91 144.55)" gradientUnits="userSpaceOnUse"><stop stop-color="#ff8f00" offset="0"/><stop stop-color="#fe00ff" offset="1"/></linearGradient>
+        <linearGradient id="b" x2="1" gradientTransform="matrix(-113.65 113.65 113.65 113.65 206.84 124.66)" gradientUnits="userSpaceOnUse"><stop stop-color="#ff8f00" offset="0"/><stop stop-color="#fe00ff" offset="1"/></linearGradient>
+        <linearGradient id="a" x2="1" gradientTransform="matrix(-41.598 -155.25 -155.25 41.598 152.05 262.8)" gradientUnits="userSpaceOnUse"><stop stop-color="#ff8f00" offset="0"/><stop stop-color="#fe00ff" offset="1"/></linearGradient>
+    
+        
+        
+    
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </defs>
+</svg>
