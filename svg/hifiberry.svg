@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 512.00002 511.99999"
+   version="1.1"
+   sodipodi:docname="hifiberry_logo.svg"
+   width="512"
+   height="512"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.95732889"
+     inkscape:cx="388.58119"
+     inkscape:cy="274.20044"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">.cls-1{fill:#e11e4a;}</style>
+  </defs>
+  <title
+     id="title1">hifiberry_logo</title>
+  <g
+     id="g1"
+     transform="translate(2.3697458,0.36232416)">
+    <ellipse
+       class="cls-1"
+       cx="343.90118"
+       cy="430.2627"
+       rx="43.544731"
+       ry="70.81012"
+       transform="rotate(-18.07)"
+       id="ellipse1"
+       style="stroke-width:9.98736" />
+    <ellipse
+       class="cls-1"
+       cx="59.005585"
+       cy="227.34015"
+       rx="43.544731"
+       ry="70.81012"
+       transform="rotate(-63.07)"
+       id="ellipse2"
+       style="stroke-width:9.98736" />
+    <ellipse
+       class="cls-1"
+       cx="161.79884"
+       cy="345.86914"
+       rx="33.757153"
+       ry="41.647137"
+       transform="rotate(-52.8)"
+       id="ellipse3"
+       style="stroke-width:9.98736" />
+    <ellipse
+       class="cls-1"
+       cx="140.06017"
+       cy="453.74429"
+       rx="33.757153"
+       ry="41.647137"
+       transform="rotate(-52.81)"
+       id="ellipse4"
+       style="stroke-width:9.98736" />
+    <ellipse
+       class="cls-1"
+       cx="-322.25995"
+       cy="416.52621"
+       rx="106.16525"
+       ry="63.020008"
+       transform="rotate(-77.15)"
+       id="ellipse5"
+       style="stroke-width:9.98736" />
+    <ellipse
+       class="cls-1"
+       cx="102.06524"
+       cy="171.9464"
+       rx="115.35358"
+       ry="68.413162"
+       transform="rotate(-4.46)"
+       id="ellipse6"
+       style="stroke-width:9.98736" />
+    <ellipse
+       class="cls-1"
+       cx="-49.573975"
+       cy="371.68909"
+       rx="114.45473"
+       ry="72.208344"
+       transform="rotate(-37.47)"
+       id="ellipse7"
+       style="stroke-width:9.98736" />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>hifiberry_logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
