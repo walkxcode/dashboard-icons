@@ -38,38 +38,6 @@
       .cls-3 {
         fill: url(#linear-gradient-4);
       }
-
-.cls-5, .cls-2, .cls-3 {
-  opacity: 0;
-}
-
-.cls-3 {
-  animation: slideInDown 1s ease forwards;
-  animation-delay: 0s;
-}
-
-.cls-2 {
-  animation: slideInDown 1s ease forwards;
-  animation-delay: 0.5s;
-}
-
-.cls-5 {
-  animation: slideInDown 1s ease forwards;
-  animation-delay: 1s;
-}
-
-@keyframes slideInDown {
-  0% {
-    transform: translateY(-100%);
-    opacity: 0;
-  }
-  100% {
-    transform: translateY(0);
-    opacity: 1;
-  }
-}
-
-
     </style>
     <linearGradient id="linear-gradient" x1="175.51" y1="30.59" x2="64.11" y2="184.49" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#340b4e"/>
