@@ -9,9 +9,9 @@ body:
   - type: checkboxes
     attributes:
       label: Contribution Guidelines
-    options:
-      - label:  I have read and agree to the [Contribution Guidelines](https://github.com/walkxcode/dashboard-icons/blob/main/CONTRIBUTING.md)
-        required: true
+      options:
+        - label:  I have read and agree to the [Contribution Guidelines](https://github.com/walkxcode/dashboard-icons/blob/main/CONTRIBUTING.md)
+          required: true
   - type: textarea
     id: icon-name
     attributes:
