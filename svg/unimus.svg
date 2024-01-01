@@ -1,158 +1,33 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
-   version="1.1"
-   id="svg1"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="unimus.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     inkscape:zoom="0.74742565"
-     inkscape:cx="397.36394"
-     inkscape:cy="561.25984"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="3832"
-     inkscape:window-y="1086"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
-  <defs
-     id="defs1">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath14">
-      <g
-         id="g15">
-        <rect
-           width="336.91299"
-           height="61.6394"
-           fill="#ffffff"
-           id="rect15"
-           x="0"
-           y="0.77197301" />
-      </g>
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath13">
-      <g
-         id="g14">
-        <rect
-           width="336.91299"
-           height="61.6394"
-           fill="#ffffff"
-           id="rect14"
-           x="0"
-           y="0.77197301" />
-      </g>
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath12">
-      <g
-         id="g13">
-        <rect
-           width="336.91299"
-           height="61.6394"
-           fill="#ffffff"
-           id="rect13"
-           x="0"
-           y="0.77197301" />
-      </g>
-    </clipPath>
-    <linearGradient
-       id="paint0_linear_1870_3599"
-       x1="18.375"
-       y1="32.561901"
-       x2="45.9375"
-       y2="53.999401"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#AC79FF"
-         id="stop9" />
-      <stop
-         offset="1"
-         stop-color="#784CBF"
-         id="stop10" />
-    </linearGradient>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath11">
-      <g
-         id="g12">
-        <rect
-           width="336.91299"
-           height="61.6394"
-           fill="#ffffff"
-           id="rect12"
-           x="0"
-           y="0.77197301" />
-      </g>
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath10">
-      <g
-         id="g11">
-        <rect
-           width="336.91299"
-           height="61.6394"
-           fill="#ffffff"
-           id="rect11"
-           x="0"
-           y="0.77197301" />
-      </g>
-    </clipPath>
-  </defs>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <g
-       id="g20"
-       transform="matrix(0.79374999,0,0,0.79374999,15.157596,10.806302)">
-      <path
-         d="M 0.00390625,16.2292 V 5 H 16.337 Z"
-         fill="#ac79ff"
-         id="path5"
-         clip-path="url(#clipPath14)" />
-      <path
-         d="M 19.3945,53.9998 65.3321,19.2915 47.1307,53.9998 Z"
-         fill="#ac79ff"
-         id="path6"
-         clip-path="url(#clipPath13)" />
-      <path
-         d="M 0.00390625,16.2292 16.3372,28.4792 V 5 Z"
-         fill="#784cbf"
-         id="path7"
-         clip-path="url(#clipPath12)" />
-      <path
-         d="M 35.7292,41.7493 0,16.2285 19.3958,53.9993 Z"
-         fill="url(#paint0_linear_1870_3599)"
-         id="path8"
-         style="fill:url(#paint0_linear_1870_3599)"
-         clip-path="url(#clipPath11)" />
-      <path
-         d="M 48.3359,32.563 65.3334,19.2922 48.3359,5.00049 Z"
-         fill="#784cbf"
-         id="path9"
-         clip-path="url(#clipPath10)" />
-    </g>
-  </g>
+<?xml version="1.0"?>
+<svg width="52" height="39" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">
+ <title>unimus</title>
+ <defs>
+  <clipPath id="clipPath14">
+   <rect fill="#fff" height="61.64" id="svg_1" width="336.91" y="0.77"/>
+  </clipPath>
+  <clipPath id="clipPath13">
+   <rect fill="#fff" height="61.64" id="svg_2" width="336.91" y="0.77"/>
+  </clipPath>
+  <clipPath id="clipPath12">
+   <rect fill="#fff" height="61.64" id="svg_3" width="336.91" y="0.77"/>
+  </clipPath>
+  <linearGradient id="paint0_linear_1870_3599" x1="0.51" x2="1.29" y1="0.43" y2="1">
+   <stop offset="0" stop-color="#AC79FF"/>
+   <stop offset="1" stop-color="#784CBF"/>
+  </linearGradient>
+  <clipPath id="clipPath11">
+   <rect fill="#fff" height="61.64" id="svg_4" width="336.91" y="0.77"/>
+  </clipPath>
+  <clipPath id="clipPath10">
+   <rect fill="#fff" height="61.64" id="svg_5" width="336.91" y="0.77"/>
+  </clipPath>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <path clip-path="url(#clipPath14)" d="m0,8.92l0,-8.91l12.97,0l-12.97,8.91z" fill="#ac79ff" id="svg_6"/>
+  <path clip-path="url(#clipPath13)" d="m15.39,38.9l36.46,-27.55l-14.45,27.55l-22.02,0z" fill="#ac79ff" id="svg_7"/>
+  <path clip-path="url(#clipPath12)" d="m0,8.92l12.97,9.72l0,-18.64l-12.97,8.91z" fill="#784cbf" id="svg_8"/>
+  <path clip-path="url(#clipPath11)" d="m28.36,29.18l-28.36,-20.26l15.4,29.98l12.96,-9.72z" fill="url(#paint0_linear_1870_3599)" id="svg_9"/>
+  <path clip-path="url(#clipPath10)" d="m38.37,21.88l13.49,-10.53l-13.49,-11.34l0,21.88z" fill="#784cbf" id="svg_10"/>
+ </g>
 </svg>
