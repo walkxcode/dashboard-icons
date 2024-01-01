@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="unimus-light.svg"
+   sodipodi:docname="unimus.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,11 +26,11 @@
      inkscape:zoom="0.74742565"
      inkscape:cx="397.36394"
      inkscape:cy="561.25984"
-     inkscape:window-width="1350"
-     inkscape:window-height="1237"
-     inkscape:window-x="6181"
-     inkscape:window-y="1217"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="3832"
+     inkscape:window-y="1086"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
      id="defs1">
@@ -126,7 +126,7 @@
      id="layer1">
     <g
        id="g20"
-       transform="matrix(0.79374999,0,0,0.79374999,12.007997,6.9053473)">
+       transform="matrix(0.79374999,0,0,0.79374999,15.157596,10.806302)">
       <path
          d="M 0.00390625,16.2292 V 5 H 16.337 Z"
          fill="#ac79ff"
