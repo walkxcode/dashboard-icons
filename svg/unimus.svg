@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<svg width="52" height="39" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">
+ <title>unimus</title>
+ <defs>
+  <clipPath id="clipPath14">
+   <rect fill="#fff" height="61.64" id="svg_1" width="336.91" y="0.77"/>
+  </clipPath>
+  <clipPath id="clipPath13">
+   <rect fill="#fff" height="61.64" id="svg_2" width="336.91" y="0.77"/>
+  </clipPath>
+  <clipPath id="clipPath12">
+   <rect fill="#fff" height="61.64" id="svg_3" width="336.91" y="0.77"/>
+  </clipPath>
+  <linearGradient id="paint0_linear_1870_3599" x1="0.51" x2="1.29" y1="0.43" y2="1">
+   <stop offset="0" stop-color="#AC79FF"/>
+   <stop offset="1" stop-color="#784CBF"/>
+  </linearGradient>
+  <clipPath id="clipPath11">
+   <rect fill="#fff" height="61.64" id="svg_4" width="336.91" y="0.77"/>
+  </clipPath>
+  <clipPath id="clipPath10">
+   <rect fill="#fff" height="61.64" id="svg_5" width="336.91" y="0.77"/>
+  </clipPath>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <path clip-path="url(#clipPath14)" d="m0,8.92l0,-8.91l12.97,0l-12.97,8.91z" fill="#ac79ff" id="svg_6"/>
+  <path clip-path="url(#clipPath13)" d="m15.39,38.9l36.46,-27.55l-14.45,27.55l-22.02,0z" fill="#ac79ff" id="svg_7"/>
+  <path clip-path="url(#clipPath12)" d="m0,8.92l12.97,9.72l0,-18.64l-12.97,8.91z" fill="#784cbf" id="svg_8"/>
+  <path clip-path="url(#clipPath11)" d="m28.36,29.18l-28.36,-20.26l15.4,29.98l12.96,-9.72z" fill="url(#paint0_linear_1870_3599)" id="svg_9"/>
+  <path clip-path="url(#clipPath10)" d="m38.37,21.88l13.49,-10.53l-13.49,-11.34l0,21.88z" fill="#784cbf" id="svg_10"/>
+ </g>
+</svg>
