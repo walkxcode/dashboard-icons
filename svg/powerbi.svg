@@ -1,0 +1,45 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="filter0_f">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="0.4" result="effect1_foregroundBlur"/>
+    </filter>
+    <filter id="filter1_f">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="4" result="effect1_foregroundBlur"/>
+    </filter>
+    <linearGradient id="paint0_linear" x1="46.6667" y1="-8.97795e-07" x2="88.8653" y2="89.4466" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E6AD10"/>
+      <stop offset="1" stop-color="#C87E0E"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="31.9974" y1="24" x2="67.4859" y2="92.8262" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6D751"/>
+      <stop offset="1" stop-color="#E6AD10"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear" x1="11.9974" y1="48" x2="31.6083" y2="94.4775" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9E589"/>
+      <stop offset="1" stop-color="#F6D751"/>
+    </linearGradient>
+    <clipPath id="clip0">
+      <rect width="96" height="96" fill="white"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip0)">
+    <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="12" y="0" width="72" height="96">
+      <path d="M52 4C52 1.79086 53.7909 0 56 0H80C82.2091 0 84 1.79086 84 4V92C84 94.2091 82.2091 96 80 96H16C13.7909 96 12 94.2091 12 92V52C12 49.7909 13.7909 48 16 48H32.0001V28C32.0001 25.7909 33.791 24 36.0001 24H52V4Z" fill="white"/>
+    </mask>
+    <g mask="url(#mask0)">
+      <path d="M84 0L84 96H52L52 0H84Z" fill="url(#paint0_linear)"/>
+      <g filter="url(#filter0_f)">
+        <path d="M64 28.4V96.4H32V24.4H60C62.2091 24.4 64 26.1909 64 28.4Z" fill="black" fill-opacity="0.2"/>
+      </g>
+      <g filter="url(#filter1_f)">
+        <path d="M64 30V98H32V26H60C62.2091 26 64 27.7909 64 30Z" fill="black" fill-opacity="0.18"/>
+      </g>
+      <path d="M64 28V96H32V24H60C62.2091 24 64 25.7909 64 28Z" fill="url(#paint1_linear)"/>
+      <path d="M12 48V96H44V52C44 49.7909 42.2091 48 40 48H12Z" fill="url(#paint2_linear)"/>
+    </g>
+  </g>
+</svg>
