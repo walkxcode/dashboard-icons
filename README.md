@@ -36,7 +36,7 @@ There are many Dashboards available that you can use with Dashboard Icons. Here 
 - [Organizr(v2)](https://github.com/causefx/Organizr)
 - [Flame](https://github.com/pawelmalak/flame)
 - [SUI](https://github.com/jeroenpardon/sui)
-- [Homepage](https://github.com/benphelps/homepage)\*
+- [Homepage](https://github.com/gethomepage/homepage)\*
 
 **Note:** Dashboards with a \* have native integration with Dashboard Icons.
 
