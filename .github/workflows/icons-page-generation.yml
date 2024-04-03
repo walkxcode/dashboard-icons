@@ -28,5 +28,5 @@ jobs:
           git config --global user.email "noreply@walkx.fyi"
           git config --global user.name "Dashboard Icons Bot"
           git add -A
-          git commit -m ":rocket: Generates ICONS" || exit 0
+          git commit -m ":construction_worker: Generates ICONS.md" || exit 0
           git push
