@@ -5,12 +5,12 @@ assignees: walkxcode
 body:
   - type: markdown
     attributes:
-      value: "Thank you for your interest in contributing to our icon repository! To ensure that everything runs smoothly, we've set out some guidelines for contributors.\n## 🌟 Icon Specifications\n\n- Each icon should include both a **PNG** and **SVG** version. If an **SVG** cannot be found, then only a **PNG** version is required.\n\n- Each icon should be in **PNG** format and have a height of exactly **512px**. Width does not matter. ❗️(No upscales! If the correct size cannot be found, a smaller height will be accepted.)\n\n- Icons should be named after their full name, using the [Kebab Case](https://wiki.c2.com/?KebabCase) naming convention. For example, \"Facebook Messenger\" should be named `facebook-messenger.png`.\n\n- Monochrome icons should default to a dark version. Light versions should be named `service-light.png`. If a light version is not available, use [https://pinetools.com/colorize-image](https://pinetools.com/colorize-image) to change its color.\n"
+      value: "Thank you for your interest in contributing to our icon repository! To ensure smooth collaboration, we've established clear guidelines for contributors.\n## 🌟 Icon Specifications\n\n- Icons should be provided in both `PNG` and `SVG` formats. Formats like `JPEG` or `WEBP` will not be accepted.\n  - If an `SVG` version is unavailable, a `PNG` version alone suffices.\n  - Conversely, if a `PNG` version is missing, it can be generated using [Ezgif SVG to PNG](https://github.com/walkxcode/dashboard-icons/blob/main/CONTRIBUTING.md#-converting-svg-to-png).\n\n- `PNG` files should have a height of exactly `512px` Width can vary, but a 1:1 aspect ratio is preferred.\n  - ❗ Exceptions for upscales will be made only if the correct or a downscaled version cannot be obtained.\n  - Downsizing can be accomplished using [iLoveIMG Resize](https://github.com/walkxcode/dashboard-icons/blob/main/CONTRIBUTING.md#-downscaling-pngs).\n\n- Icons should be named using the [Kebab Case](https://wiki.c2.com/?KebabCase) convention, reflecting their full name. For instance, \"Facebook Messenger\" should be named `facebook-messenger.png`.\n\n- Monochrome icons should default to a dark version. Light versions should be named `name-light.png`. If a light version is absent, utilize [https://pinetools.com/colorize-image](https://pinetools.com/colorize-image) to adjust its color.\n"
   - type: checkboxes
     attributes:
       label: Contribution Guidelines
       options:
-        - label:  I have read and agree to the [Contribution Guidelines](https://github.com/walkxcode/dashboard-icons/blob/main/CONTRIBUTING.md)
+        - label: I have read and agree to the [Contribution Guidelines](https://github.com/walkxcode/dashboard-icons/blob/main/CONTRIBUTING.md)
           required: true
   - type: textarea
     id: icon-name
