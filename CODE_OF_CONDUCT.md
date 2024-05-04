@@ -12,7 +12,7 @@ Harassment, intimidation, discrimination, or any other inappropriate conduct or 
 
 ## 📢 Reporting
 
-If you believe someone is violating the code of conduct, please report it immediately to contact@walkx.fyi. All reports will be reviewed and investigated promptly and confidentially.
+If you believe someone is violating the code of conduct, please report it immediately to walkxnl@gmail.com. All reports will be reviewed and investigated promptly and confidentially.
 
 ## 🚨 Consequences
 

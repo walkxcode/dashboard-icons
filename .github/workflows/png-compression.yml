@@ -2,9 +2,9 @@ name: 🗜️ PNG Compression
 
 on:
   schedule:
-    - cron: '0 0 * * 0'
+    - cron: "0 0 * * 0"
   workflow_dispatch:
-  
+
 jobs:
   compress-images:
     runs-on: ubuntu-latest
@@ -15,18 +15,18 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y zopfli
-          
+
       - name: Compress PNGs
         run: |
-          echo "🖼️  Compressing PNGs..."
+          echo "Compressing PNGs..."
           find png/ -iname "*.png" -print0 | xargs -0 -P 4 -I{} sh -c 'echo "Compressing {}"; zopflipng -y {} {}' || true
-          
+
       - name: Load to GitHub
         run: |-
           git diff
           git config --global user.email "noreply@walkx.fyi"
           git config --global user.name "Dashboard Icons Bot"
           git add -A
-          git commit -m ":clamp: Compresses PNGs" || exit 0
+          git commit -m ":children_crossing: Compresses PNGs" || exit 0
           git pull --ff-only
           git push
