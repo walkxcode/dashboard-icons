@@ -1,0 +1,31 @@
+<svg width="192" height="192" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+    <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+    <g class="layer">
+        <title>Layer 3</title>
+        <path d="m5.521525,15.813595l183.40726,-0.327651l-2.487703,153.965389l-182.200332,2.855393l1.280775,-156.493131z" fill="#ffffff" id="svg_7" stroke="#4c4c4c" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="12"/>
+        <polygon fill="#ffffff" id="svg_16" stroke-width="12"/>
+        <polygon fill="#ffffff" id="svg_17" stroke-width="12"/>
+        <polygon fill="#ffffff" id="svg_18" stroke-width="12"/>
+        <polygon fill="#ffffff" id="svg_19" stroke-width="12"/>
+        <polygon fill="#ffffff" id="svg_20" stroke-width="12"/>
+        <polygon fill="#ffffff" id="svg_21" stroke-width="12"/>
+        <polygon fill="#ffffff" id="svg_22" stroke-width="12"/>
+        <polygon fill="#ffffff" id="svg_25" stroke-width="12"/>
+        <polygon fill="#ffffff" id="svg_26" stroke-width="12"/>
+        <line fill="none" id="svg_30" stroke="#cccccc" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="9" x1="7.94331" x2="71.680493" y1="168.387412" y2="119.435089"/>
+        <line fill="none" id="svg_31" stroke="#cccccc" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="9" x1="182.611667" x2="118.874481" y1="165.46188" y2="117.791969"/>
+    </g>
+    <g class="layer" display="inline">
+        <title>Layer 2</title>
+        <path d="m1.514762,13.947336l92.30845,134.939874l97.654719,-134.450606l-189.963169,-0.489268z" fill="#ffffff" id="svg_12" stroke="#310035" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="9"/>
+    </g>
+    <g class="layer">
+        <title>Layer 5</title>
+        <g id="svg_4">
+            <circle cx="94.512235" cy="64.888373" fill="#ed9ff4" id="svg_5" r="45.947662" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="2"/>
+            <circle cx="94.512235" cy="67.416129" fill="#000000" id="svg_6" r="27.421291" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="2"/>
+            <circle cx="133.066652" cy="38.129528" fill="#ffffff" id="svg_10" r="2.236069" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" transform="matrix(2.36481, 0.460277, -0.437926, 2.4855, -222.707, -98.7136)"/>
+        </g>
+    </g>
+</svg>

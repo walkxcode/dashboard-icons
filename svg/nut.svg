@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <radialGradient id="radialGradient6400" cx="22767" cy="148727" r="15252" gradientTransform="matrix(.0032899 .002505 -.002505 .0032899 813.5 -242.18)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#EF9A48" offset="0"/>
+   <stop stop-color="#8F5444" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient6397" cx="326.28" cy="591.72" r="28.292" gradientTransform="matrix(.93052 0 0 .92334 288.43 -616.84)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient6393" cx="306.03" cy="601.15" r="19.889" gradientTransform="matrix(1.8368 -.15304 .21772 1.7315 -184.24 -677.81)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d69600" offset="0"/>
+   <stop stop-color="#ffff90" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient6390" x1="20483" x2="22053" y1="138226" y2="146537" gradientTransform="matrix(.0041507 .00046171 -.00062837 .003859 516.6 -282)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient6386" cx="18876" cy="150304" r="14266" gradientTransform="matrix(.0032899 .002505 -.0024412 .003206 799.15 -219.16)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#FFF974" offset="0"/>
+   <stop stop-color="#97946B" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g transform="translate(-13.484 -13.639)">
+  <g transform="matrix(6.4 0 0 6.4 -3019.6 -1664.1)">
+   <rect x="473.92" y="262.15" width="80" height="80" color="#000000" fill="none"/>
+   <g fill-rule="evenodd">
+    <path d="m520.66 264.42c4.2794-0.77706 10.16-1.1578 14.46-1.8048l3.6964 8.0117c8.5873 10.853 11.547 25.748 10.089 34.572l-2.4852 12.595-65.755-29.759c2.1958-5.1003 5.3461-8.2567 8.3681-11.674 9.2631-8.6025 20.377-11.03 31.627-11.942z" fill="#1f1a17"/>
+    <path d="m492.25 332.78c-12.525-10.492-15.1-25.989-11.311-41.375l3.6567-7.345c7.4055-10.733 17.585-14.49 29.779-17.453 6.9569-0.53519 13.974-1.4537 19.915-1.8311 9.7036 16.569 15.411 26.608 12.198 46.365l-2.721 7.8704-3.5403 5.438c-12.324 15.228-31.461 18.77-47.976 8.332z" fill="url(#radialGradient6400)"/>
+    <rect transform="rotate(37.286)" x="565.72" y="-96.603" width="52.652" height="52.245" color="#000000" fill="url(#radialGradient6397)"/>
+   </g>
+   <path d="m529.83 268.8s-33.838 28.423-32.806 30.796c0.67874 1.5596 13.035 3.2574 13.035 3.2574l-10.073 22.062c-1.782 5.7264 1.4557 2.5169 3.0919 3.0943 0 0 33.7-28.977 32.868-30.933-0.83197-1.9554-8.9314-2.4837-12.439-3.4967 2.2823-4.6614 9.4881-22.94 9.4881-22.94 2.1251-4.1374 1.3802-6.2758-3.1653-1.8408z"/>
+   <path d="m531.54 269.81-29.946 27.538 12.906 2.5209-12.049 25.469 29.946-27.538-12.906-2.5209z" fill="url(#radialGradient6393)"/>
+   <g fill-rule="evenodd">
+    <path class="fil16" d="m516.05 269.15c16.418-0.021 29.709 11.429 29.682 25.568l-6e-3 0.35993-59.452 0.0767-4e-3 -0.36007c0.0273-14.14 13.362-25.624 29.781-25.645l1.3e-4 2e-5z" fill="url(#linearGradient6390)"/>
+    <path d="m549.65 313.18 1.2306 2.2935-9.7375 10.765c-6.4859 7.953-9.2177 9.8512-14.889 13.017-12.607 4.6777-19.604 1.7587-29.446-1.6644l-5.7118 3.7222-2.7903-1.3242-1.4259-2.2603 4.7736-2.7786c-17.266-18.402-15.362-34.669-11.631-50.89l2.6034-0.6111 2.2551 15.453 9.3995-7.0418 2.2643 2.0151-2.481 14.005 9.7808-3.1622 3.1533 0.87823-0.31 13.322 22.892-12.043 2.3806 1.4228-5.04 12.321 12.982-12.606 2.4144 1.407-4.8561 10.855z" fill="#1f1a17"/>
+    <path d="m499.65 336.92c-2.5315-0.74769-5.3726-1.3134-7.3277-2.9747-13.61-16.33-14.718-29.284-11.323-46.889l2.2684 15.514 10.668-7.7098-3.3775 18.042 13.131-5.2243-0.038 17.018 24.693-14.589-5.58 17.709 17.124-17.072-4.8735 12.917 13.168-7.5888c-7.0798 8.9114-14.302 18.235-22.784 21.45-7.5098 3.4553-13.617 2.6093-25.748-0.60388z" fill="url(#radialGradient6386)"/>
+    <polygon class="fil43" transform="matrix(.0032899 .002505 -.002505 .0032899 813.81 -242.49)" points="22642 159246 22893 158534 23466 158566 23164 159265 22842 159364" fill="#99ae6a"/>
+   </g>
+  </g>
+ </g>
+</svg>
