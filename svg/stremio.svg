@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="124.926" height="124.927" viewBox="0 0 124.926 124.927">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="1" x2="0.296" y2="0.296" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1155d9"/>
+      <stop offset="1" stop-color="#7b5bf5"/>
+    </linearGradient>
+  </defs>
+  <g id="stremio-logo-icon-only-fullcolor" transform="translate(-295.241 -24.714)">
+    <g id="Group_2115" data-name="Group 2115" transform="translate(295.242 24.714)">
+      <rect id="Rectangle_1065" data-name="Rectangle 1065" width="88.336" height="88.336" rx="6" transform="translate(62.463 0) rotate(45)" fill="url(#linear-gradient)"/>
+      <path id="Polygon_20" data-name="Polygon 20" d="M22.236,1.1a1,1,0,0,1,1.611,0L44.912,29.739a1,1,0,0,1-.806,1.592H1.977a1,1,0,0,1-.806-1.592Z" transform="translate(84.489 39.422) rotate(90)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
