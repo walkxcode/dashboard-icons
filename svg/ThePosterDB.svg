@@ -1,0 +1,26 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 228.0628 256.9292">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-653.872" y1="564.413" x2="-653.422" y2="564.413" gradientTransform="matrix(-123.1042, -544.0433, -611.0961, 138.2768, 264555.2575, -433542.1851)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f76237"/>
+      <stop offset="1" stop-color="#ff754f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-655.5937" y1="561.8709" x2="-655.1435" y2="561.8709" gradientTransform="matrix(0, -164.4193, -164.4193, 0, 92496.7158, -107584.8649)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.38"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-656.324" y1="561.4897" x2="-655.8739" y2="561.4897" gradientTransform="matrix(-0.5376, -145.9384, -145.9384, 0.5376, 81704.4748, -95923.799)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.56"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="-656.6454" y1="561.5017" x2="-656.1953" y2="561.5017" gradientTransform="matrix(0, -146.9314, -146.9314, 0, 82616.0499, -96363.8194)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.75"/>
+    </linearGradient>
+  </defs>
+  <g id="logoMark">
+    <path id="logoMark_PathItem_" data-name="logoMark &lt;PathItem&gt;" d="M128.7334,3.9393l83.7617,48.36A31.1355,31.1355,0,0,1,228.0628,79.264v95.7193a31.136,31.136,0,0,1-15.5677,26.9646l-89.9818,51.9507a16.9623,16.9623,0,0,1-16.9638,0L15.5677,201.9479A31.136,31.136,0,0,1,0,174.9833V79.264A31.1355,31.1355,0,0,1,15.5677,52.2994L99.33,3.9393a29.4036,29.4036,0,0,1,29.4035,0" style="fill-rule: evenodd;fill: url(#linear-gradient)"/>
+    <path id="logoMark_PathItem_2" data-name="logoMark &lt;PathItem&gt;" d="M123.4663,125.16l68.7751,38.5366a8.1942,8.1942,0,0,1,0,14.4046l-68.7751,38.5371a18.8722,18.8722,0,0,1-18.3867,0L36.3055,178.1011a8.1942,8.1942,0,0,1,0-14.4046L105.08,125.16a18.8722,18.8722,0,0,1,18.3867,0" style="fill-rule: evenodd;fill: url(#linear-gradient-2)"/>
+    <path id="logoMark_PathItem_3" data-name="logoMark &lt;PathItem&gt;" d="M123.4663,82.3463l68.7751,38.5375a8.1934,8.1934,0,0,1,0,14.4037l-68.7751,38.5376a18.8722,18.8722,0,0,1-18.3867,0L36.3055,135.2875a8.1934,8.1934,0,0,1,0-14.4037L105.08,82.3463a18.8743,18.8743,0,0,1,18.3867,0" style="fill-rule: evenodd;fill: url(#linear-gradient-3)"/>
+    <path id="logoMark_PathItem_4" data-name="logoMark &lt;PathItem&gt;" d="M122.9823,39.5331l68.7751,38.5376a8.1938,8.1938,0,0,1,0,14.4041l-68.7751,38.5371a18.8745,18.8745,0,0,1-18.3868,0L35.8214,92.4748a8.1938,8.1938,0,0,1,0-14.4041l68.7741-38.5376a18.875,18.875,0,0,1,18.3868,0" style="fill-rule: evenodd;fill: url(#linear-gradient-4)"/>
+  </g>
+</svg>
