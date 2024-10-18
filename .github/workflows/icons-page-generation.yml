@@ -25,7 +25,7 @@ jobs:
       - name: Load to GitHub
         run: |-
           git diff
-          git config --global user.email "noreply@walkx.fyi"
+          git config --global user.email "noreply@lammers.media"
           git config --global user.name "Dashboard Icons Bot"
           git add -A
           git commit -m ":construction_worker: Generates ICONS.md" || exit 0
