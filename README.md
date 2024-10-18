@@ -70,4 +70,4 @@ Please review the [Contribution Guidelines](CONTRIBUTING.md) before contributing
 
 Read our [LICENSE](LICENSE) for information regarding the use of our software and assets. By accessing or using this repository, you agree to be bound by the terms and conditions of the license.
 
-For questions or concerns regarding the license, contact me at walkxnl@gmail.com before using or distributing the contents of this repository.
+For questions or concerns regarding the license, contact me at hey@lammers.media before using or distributing the contents of this repository.
