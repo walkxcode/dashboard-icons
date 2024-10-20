@@ -1,4 +1,4 @@
-name: Compress PNGs 🗜️
+name: Compress Icons 🗜️
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  compress_pngs:
+  compress_icons:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -20,18 +20,29 @@ jobs:
       - name: Install Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y zopfli
+          sudo apt-get install -y zopfli webp
+          npm install -g svgo
 
       - name: Compress PNG Files
         run: |
           echo "Compressing PNGs..."
           find png/ -iname "*.png" -print0 | xargs -0 -P 4 -I{} zopflipng -y {} {}
 
+      - name: Compress SVG Files
+        run: |
+          echo "Compressing SVGs..."
+          svgo -r -f svg/
+
+      - name: Compress WEBP Files
+        run: |
+          echo "Compressing WEBPs..."
+          find webp/ -iname "*.webp" -print0 | xargs -0 -P 4 -I{} bash -c 'cwebp -quiet -q 80 "$1" -o "$1"' _ {}
+
       - name: Commit and Push Changes
         run: |
           git config --global user.email "noreply@lammers.media"
           git config --global user.name "Dashboard Icons Bot"
-          git add png/
-          git commit -m ":compression: Compressed PNGs" || exit 0
+          git add png/ svg/ webp/
+          git commit -m ":compression: Compressed images" || exit 0
           git pull --rebase origin ${{ github.ref_name }}
           git push origin HEAD:${{ github.ref_name }}
