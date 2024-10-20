@@ -3,7 +3,7 @@
 ## Dashboard Icons
 
 The best source for dashboard icons.<br />
-[**View icons →**](#icons)
+[**View icons →**](ICONS.md)
 
 ## Table of Contents
 - [Dashboard Icons](#dashboard-icons)
