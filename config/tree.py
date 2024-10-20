@@ -39,6 +39,11 @@ if __name__ == "__main__":
         print("Please provide at least one folder path.")
         sys.exit(1)
 
+    # Check if 'tree.json' exists
+    if os.path.exists('tree.json'):
+        print("'tree.json' already exists. No file was created.")
+        sys.exit(0)
+
     # Generate the combined folder tree for all specified paths
     combined_folder_tree = generate_combined_tree(folder_paths)
 
