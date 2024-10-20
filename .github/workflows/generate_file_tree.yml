@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - dev
   workflow_dispatch:
 
 jobs:
@@ -20,12 +21,12 @@ jobs:
           python-version: "3.9"
 
       - name: Generate File Tree
-        run: python scripts/generate_file_tree.py svg png webp
+        run: python scripts/generate_folder_tree.py ../svg ../png ../webp
 
       - name: Commit and Push Changes
         run: |
           git config --global user.email "noreply@lammers.media"
           git config --global user.name "Dashboard Icons Bot"
-          git add tree.json
+          git add ../tree.json
           git commit -m ":construction_worker: Generate file tree" || exit 0
           git push
