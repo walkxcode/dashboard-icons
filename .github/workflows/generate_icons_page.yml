@@ -1,14 +1,17 @@
 name: Generate Icons Page 🚀
 
 on:
-  push:
+  workflow_run:
+    workflows: ["Convert SVG Assets 🔄"]
     branches:
       - main
       - dev
-  workflow_dispatch:
+    types:
+      - completed
 
 jobs:
   build_icons_page:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -17,7 +20,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          ref: ${{ github.ref_name }}
+          ref: ${{ github.event.workflow_run.head_branch }}
 
       - name: Set Up Python
         uses: actions/setup-python@v4
@@ -33,5 +36,5 @@ jobs:
           git config --global user.name "Dashboard Icons Bot"
           git add ICONS.md
           git commit -m ":construction_worker: Generate ICONS.md" || exit 0
-          git pull --rebase origin ${{ github.ref_name }}
-          git push origin HEAD:${{ github.ref_name }}
+          git pull --rebase origin ${{ github.event.workflow_run.head_branch }}
+          git push origin HEAD:${{ github.event.workflow_run.head_branch }}
