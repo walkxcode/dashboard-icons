@@ -20,7 +20,7 @@ jobs:
       - name: Install Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y zopfli webp
+          sudo apt-get install -y zopfli webp npm
           npm install -g svgo
 
       - name: Compress PNG Files
@@ -31,18 +31,18 @@ jobs:
       - name: Compress SVG Files
         run: |
           echo "Compressing SVGs..."
-          svgo -r -f svg/
+          svgo --config=svgo.config.js -f svg/
 
       - name: Compress WEBP Files
         run: |
           echo "Compressing WEBPs..."
-          find webp/ -iname "*.webp" -print0 | xargs -0 -P 4 -I{} bash -c 'cwebp -quiet -q 80 "$1" -o "$1"' _ {}
+          find webp/ -iname "*.webp" -print0 | xargs -0 -P 4 -I{} bash -c 'cwebp -quiet -lossless "$1" -o "$1"' _ {}
 
       - name: Commit and Push Changes
         run: |
           git config --global user.email "noreply@lammers.media"
           git config --global user.name "Dashboard Icons Bot"
           git add png/ svg/ webp/
-          git commit -m ":compression: Compressed images" || exit 0
+          git commit -m ":compression: Compress icons" || exit 0
           git pull --rebase origin ${{ github.ref_name }}
           git push origin HEAD:${{ github.ref_name }}
