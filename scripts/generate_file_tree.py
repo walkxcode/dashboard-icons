@@ -28,7 +28,7 @@ if __name__ == "__main__":
     folder_tree = generate_folder_tree(folder_paths)
 
     # Write the JSON structure to 'tree.json' in the root folder
-    root_dir = Path(__file__).resolve().parent.parent  # Assuming script is in 'scripts' folder
+    root_dir = Path(__file__).resolve().parent
     tree_json_path = root_dir / 'tree.json'
 
     with open(tree_json_path, 'w') as f:
