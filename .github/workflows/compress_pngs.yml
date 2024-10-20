@@ -1,4 +1,4 @@
-name: Compress PNGs 🗜️
+name: Compress PNGs
 
 on:
   schedule:

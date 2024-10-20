@@ -1,8 +1,8 @@
-name: Generate Icons Page 🚀
+name: Generate Icons Page
 
 on:
   workflow_run:
-    workflows: ["Convert SVG Assets 🔄"]
+    workflows: ["Convert SVG Assets"]
     branches:
       - main
       - dev

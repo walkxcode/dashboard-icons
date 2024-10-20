@@ -1,4 +1,4 @@
-name: Convert SVG Assets ♻️
+name: Convert SVG Assets
 
 on:
   push:

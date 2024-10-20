@@ -1,8 +1,8 @@
-name: Generate File Tree 🌳
+name: Generate File Tree
 
 on:
   workflow_run:
-    workflows: ["Convert SVG Assets 🔄"]
+    workflows: ["Convert SVG Assets"]
     branches:
       - main
       - dev
