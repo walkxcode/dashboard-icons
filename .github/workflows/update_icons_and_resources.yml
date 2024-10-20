@@ -29,7 +29,7 @@ jobs:
         run: |
           pip install cairosvg pillow
 
-      - name: Run SVG to PNG and WEBP Conversion 🎨
+      - name: Run SVG to PNG and WEBP Conversion ♻️
         run: python scripts/convert_svg_assets.py
 
       - name: Commit and Push Changes 📤
@@ -37,7 +37,7 @@ jobs:
           git config --global user.email "noreply@lammers.media"
           git config --global user.name "Dashboard Icons Bot"
           git add png/ webp/
-          git commit -m ":counterclockwise_arrows: Convert SVG assets to PNG and WEBP" || exit 0
+          git commit -m ":recycle: Convert SVG assets to PNG and WEBP" || exit 0
           git pull --rebase origin ${{ github.ref_name }}
           git push origin HEAD:${{ github.ref_name }}
 
