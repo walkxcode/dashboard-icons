@@ -26,7 +26,9 @@ def file_size_readable(size_bytes):
     for unit in ['B', 'KB', 'MB', 'GB']:
         if size_bytes < 1024:
             return f"{size_bytes:.2f} {unit}"
+            #size_bytes /= 1024
         size_bytes /= 1024
+    return f"{size_bytes:.2f} TB"
 
 def hash_file(file_path):
     """Generate an MD5 hash for a file."""
@@ -83,11 +85,11 @@ def convert_svg_to_png(svg_path, png_path):
         print(f"Failed to convert {svg_path} to PNG: {e}")
         failed_files.append(svg_path)
 
-def convert_png_to_webp(png_path, webp_path):
-    """Convert PNG to WEBP."""
+def convert_image_to_webp(image_path, webp_path):
+    """Convert an image (PNG or other) to WEBP."""
     global converted_webps
     try:
-        image = Image.open(png_path)
+        image = Image.open(image_path).convert("RGBA")
 
         if needs_conversion(webp_path):
             image.save(webp_path, format='WEBP')
@@ -97,11 +99,11 @@ def convert_png_to_webp(png_path, webp_path):
             print(f"WEBP already up-to-date: {webp_path}")
 
     except Exception as e:
-        print(f"Failed to convert {png_path} to WEBP: {e}")
-        failed_files.append(png_path)
+        print(f"Failed to convert {image_path} to WEBP: {e}")
+        failed_files.append(image_path)
 
 def clean_up_files(folder, valid_basenames):
-    """Remove files that no longer have corresponding SVG files."""
+    """Remove files that no longer have corresponding SVG or PNG files."""
     removed_files = 0
     for file_path in folder.glob('*'):
         if file_path.stem not in valid_basenames:
@@ -111,7 +113,7 @@ def clean_up_files(folder, valid_basenames):
     return removed_files
 
 if __name__ == "__main__":
-    # Track valid basenames (existing SVG files)
+    # Track valid basenames (from SVG and PNG files)
     valid_basenames = set()
 
     # Process all SVG files
@@ -137,10 +139,30 @@ if __name__ == "__main__":
 
         # Convert PNG to WEBP
         if png_path.exists():
-            convert_png_to_webp(png_path, webp_path)
+            convert_image_to_webp(png_path, webp_path)
 
-    # Clean up unused files
-    removed_pngs = clean_up_files(PNG_DIR, valid_basenames)
+    # Process PNG-only files
+    for png_file in PNG_DIR.glob("*.png"):
+        if png_file.stem not in valid_basenames:
+            # Ensure the filename is in kebab-case
+            try:
+                png_path = rename_if_needed(png_file)
+            except Exception as e:
+                print(f"Error renaming {png_file}: {e}")
+                failed_files.append(png_file)
+                continue
+
+            valid_basenames.add(png_path.stem)
+
+            # Set path for WEBP
+            webp_path = WEBP_DIR / f"{png_path.stem}.webp"
+
+            # Convert PNG to WEBP
+            convert_image_to_webp(png_path, webp_path)
+
+    # Clean up unused files in PNG and WEBP directories
+    # Only remove files that don't have corresponding SVG or PNG files
+    removed_pngs = clean_up_files(PNG_DIR, valid_basenames.union({p.stem for p in SVG_DIR.glob("*.svg")}))
     removed_webps = clean_up_files(WEBP_DIR, valid_basenames)
 
     # Display summary
