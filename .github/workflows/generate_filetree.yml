@@ -26,6 +26,6 @@ jobs:
           git diff
           git config --global user.email "noreply@lammers.media"
           git config --global user.name "Dashboard Icons Bot"
-          git add file_tree.json
+          git add tree.json
           git commit -m ":construction_worker: Generates file_tree.json" || exit 0
           git push
