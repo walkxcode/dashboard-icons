@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0" y="0" version="1.1" viewBox="0 0 2400 2800" style="enable-background:new 0 0 2400 2800" xml:space="preserve"><style type="text/css">.st0{fill:#fff}.st1{fill:#9146ff}</style><title>Asset 2</title><g><polygon points="2200 1300 1800 1700 1400 1700 1050 2050 1050 1700 600 1700 600 200 2200 200" class="st0"/><g><g id="Layer_1-2"><path d="M500,0L0,500v1800h600v500l500-500h400l900-900V0H500z M2200,1300l-400,400h-400l-350,350v-350H600V200h1600 V1300z" class="st1"/><rect width="200" height="600" x="1700" y="550" class="st1"/><rect width="200" height="600" x="1150" y="550" class="st1"/></g></g></g></svg>
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg3355" x="0px" y="0px" style="enable-background:new 0 0 512 512;" xml:space="preserve" viewBox="31.28 -0.01 449.33 512">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#6441A5;}
+</style>
+<g id="g3363" transform="matrix(1.3333333,0,0,-1.3333333,-180.53426,935.79824)">
+	<g id="g3365" transform="translate(420.064,651.1567)">
+		<path id="path3367" class="st0" d="M44.5-153.1l-54.9-54.9h-86.2l-47-47v47h-70.5V19.3l258.6,0V-153.1z M-245.5,50.7L-261.2-12    v-282.1h70.5v-39.2h39.2l39.2,39.2h62.7L75.8-168.7V50.7H-245.5L-245.5,50.7z"/>
+	</g>
+	<path id="path3369" class="st0" d="M292.1,513.8h31.3v94.1h-31.3V513.8z M378.3,513.8h31.3v94.1h-31.3V513.8z"/>
+</g>
+</svg>

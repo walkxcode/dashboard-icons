@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0f0f0f;}
+</style>
+<g id="surface1">
+	<circle cx="256" cy="256" r="256" fill="#ffffff"/>
+	<g>
+		<path class="st0" d="M224.9,336.6l60.7-161.2h17.8l-60.7,161.2H224.9z" fill="#ffffff"/>
+		<path class="st0" d="M375.6,336.6l-60.7-161.2h17.8l60.7,161.2H375.6z" fill="#ffffff"/>
+		<path class="st0" d="M118.5,336.6V175.4h17v161.2H118.5z" fill="#ffffff"/>
+		<path class="st0" d="M157.1,336.6V175.4h17v161.2H157.1z" fill="#ffffff"/>
+		<path class="st0" d="M195.6,336.6V175.4h17v161.2H195.6z" fill="#ffffff"/>
+	</g>
+</g>
+</svg>

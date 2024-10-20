@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" id="svg50" width="449.856" height="449.856" version="1.1" viewBox="0 0 449.856 449.856" xml:space="preserve" style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5"><g id="g4" transform="matrix(1.18075,0,0,1.18075,-1327.7345,-1457.0739)"><circle cx="1314.98" cy="1424.52" r="190.496" style="fill:#5856e0" id="circle2"/></g><g id="g14" transform="translate(-1079.9145,-1201.8039)"><g id="g8" transform="rotate(44.980189,1285.2778,1352.166)"><path d="m 1244.39,1293.95 v 199.64 c 0,0 -0.81,67.89 74.9,68.88 75.98,0.99 74.88,-68.88 74.88,-68.88 v -199.64" style="fill:none;stroke:#fff;stroke-width:31.25px" id="path6"/></g><g id="g12" transform="rotate(-135.24037,1335.1334,1418.8316)"><path d="m 1244.39,1293.95 v 199.64 c 0,0 -0.81,67.89 74.9,68.88 75.98,0.99 74.88,-68.88 74.88,-68.88 v -199.64" style="fill:none;stroke:#fff;stroke-width:31.25px" id="path10"/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#5856E0;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:31.25;stroke-linejoin:round;stroke-miterlimit:1.5;}
+</style>
+<g>
+	<circle class="st0" cx="256" cy="256" r="256"/>
+	<g>
+		<path class="st1" d="M249.3,91.7L88.5,252.5c0,0-55.3,54,4.8,115.8c60.4,62,115.8,4.8,115.8,4.8l160.8-160.8"/>
+		<path class="st1" d="M266.1,421.7l160.2-161.3c0,0,55.1-54.2-5.3-115.8c-60.6-61.8-115.8-4.4-115.8-4.4L145.1,301.5"/>
+	</g>
+</g>
+</svg>

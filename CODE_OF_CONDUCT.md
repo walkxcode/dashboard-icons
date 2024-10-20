@@ -1,23 +1,30 @@
-# 🚨 Code of Conduct
+## Code of Conduct
 
-We are committed to providing a welcoming and harassment-free environment for everyone who wants to participate in our icon repository, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or nationality.
+We are committed to creating a welcoming and harassment-free environment for everyone who contributes to our icon repository. This includes people of all genders, gender identities, sexual orientations, disabilities, appearances, body sizes, races, ages, religions, and nationalities.
 
-## 💬 Communication
+### Communication
 
-All communication should be appropriate for a professional audience including people of many different backgrounds. Be respectful, considerate, and constructive in all communication, both online and offline.
+All communication should be appropriate for a professional audience, respectful, constructive, and considerate of people from different backgrounds. Please aim to create a positive and inclusive atmosphere.
 
-## 🚫 Prohibited Behavior
+### Prohibited Behavior
 
-Harassment, intimidation, discrimination, or any other inappropriate conduct or behavior will not be tolerated. This includes, but is not limited to, the use of sexual language or imagery, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+We do not tolerate harassment, intimidation, discrimination, or any other inappropriate conduct, whether in communication or behavior. Prohibited actions include:
 
-## 📢 Reporting
+- The use of sexual language or imagery
+- Deliberate intimidation or stalking
+- Unwelcome sexual attention or harassment
+- Inappropriate physical contact
+- Disruptions during events or conversations
+- Discrimination of any kind
 
-If you believe someone is violating the code of conduct, please report it immediately to walkxnl@gmail.com. All reports will be reviewed and investigated promptly and confidentially.
+### Reporting
 
-## 🚨 Consequences
+If you witness or experience behavior that violates this code of conduct, please report it immediately to [bjorn@lammers.media](mailto:bjorn@lammers.media). All reports will be reviewed confidentially and promptly, and appropriate actions will be taken.
 
-Anyone found to be engaging in behavior that violates the code of conduct will be subject to appropriate action, which may include, but is not limited to, warning, removal from the repository, or banning from participation in the repository.
+### Consequences
 
-## 👍 Acknowledgment
+Anyone violating this code of conduct may face consequences, such as warnings, removal from the repository, or a ban from future participation. We take violations seriously to ensure a safe and welcoming environment for everyone.
 
-We ask that all participants in this repository agree to abide by this code of conduct. By contributing to this repository, you agree to these terms and conditions. Thank you for helping us create a welcoming and inclusive environment for all. 🙏
+### Acknowledgment
+
+By contributing to this repository, you agree to adhere to this code of conduct. Thank you for helping us create an inclusive and supportive environment for all contributors.

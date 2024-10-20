@@ -1,0 +1,72 @@
+name: Validate and Preview Icons 🛠️
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  validate_icons:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install Dependencies
+        run: |
+          pip install cairosvg pillow
+
+      - name: Run SVG to PNG and WEBP Conversion
+        run: python scripts/convert_svg_assets.py
+
+      - name: Upload Converted Icons
+        uses: actions/upload-artifact@v3
+        with:
+          name: converted-icons
+          path: |
+            png/*.png
+            webp/*.webp
+
+      - name: Post Comment with Preview
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          message: |
+            ## Icon Conversion Results
+
+            **Total Icons Processed:** ${{ steps.process.outputs.total_icons }}
+            **Converted PNGs:** ${{ steps.process.outputs.converted_pngs }}
+            **Converted WEBPs:** ${{ steps.process.outputs.converted_webps }}
+            **Removed PNGs:** ${{ steps.process.outputs.removed_pngs }}
+            **Removed WEBPs:** ${{ steps.process.outputs.removed_webps }}
+
+            ${{ steps.process.outputs.failed_files }}
+
+            ### Preview of Converted Icons:
+
+            ${{ steps.preview.outputs.icon_previews }}
+      - name: Set Output Variables
+        id: process
+        run: |
+          echo "::set-output name=total_icons::$(grep 'Total icons:' output.log | awk '{print $3}')"
+          echo "::set-output name=converted_pngs::$(grep 'Converted' output.log | awk '{print $2}')"
+          echo "::set-output name=converted_webps::$(grep 'Converted' output.log | awk '{print $5}')"
+          echo "::set-output name=removed_pngs::$(grep 'Removed' output.log | awk '{print $2}')"
+          echo "::set-output name=removed_webps::$(grep 'Removed' output.log | awk '{print $5}')"
+          echo "::set-output name=failed_files::$(grep 'The following files failed' -A 10 output.log)"
+
+      - name: Generate Icon Previews
+        id: preview
+        run: |
+          ICONS=$(find png/ -type f -name "*.png")
+          PREVIEWS=""
+          for ICON in $ICONS; do
+            ICON_NAME=$(basename $ICON)
+            PREVIEW="![${ICON_NAME}](https://raw.githubusercontent.com/walkxcode/dashboard-icons/${{ github.event.pull_request.head.ref }}/png/${ICON_NAME})"
+            PREVIEWS="$PREVIEWS $PREVIEW"
+          done
+          echo "::set-output name=icon_previews::$PREVIEWS"

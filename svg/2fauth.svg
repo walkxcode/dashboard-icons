@@ -1,8 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg width="41.629982mm" height="57.200001mm" viewBox="0 0 512 512" version="1.1" id="svg5" xmlns="http://www.w3.org/2000/svg">
-  <defs id="defs2"/>
-  <g id="layer2" style="display:inline" transform="matrix(8.538811, 0, 0, 8.538811, 78.476654, 12.001086)">
-    <path style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.101;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 92.528534,89.115936 V 86.450457 H 114.63784 V 69.045801 H 91.218988 v -2.637554 h 26.838432 v 41.042913 h -3.41886 l 0.001,-18.331587 z" id="path1902" transform="translate(-76.477506,-50.304285)"/>
-    <path style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 23.494408,7.1957567 V -1.2818177e-4 H 4.3236091e-4 V 57.15069 H 10.442458 V 31.115394 H 21.095863 V 23.847768 H 10.442061 V 7.1970624 Z" id="path3242"/>
-  </g>
+<svg xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg5" inkscape:version="1.1.1 (1:1.1+202109281944+c3084ef5ed)" x="0px" y="0px" style="enable-background:new 0 0 512 512;" xml:space="preserve" viewBox="69.8 0 372.4 512">
+<style type="text/css">
+	.st0{fill:#242424;}
+</style>
+<sodipodi:namedview bordercolor="#666666" borderopacity="1.0" id="namedview7" inkscape:current-layer="layer2" inkscape:cx="67.304919" inkscape:cy="126.24425" inkscape:document-units="mm" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1019" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="2.6298227" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g id="layer2" transform="translate(-4.3236091e-4,1.2818177e-4)" inkscape:groupmode="layer" inkscape:label="Calque 2">
+	<g>
+		<path id="path1902_00000001633698005833361690000016711519779172455558_" sodipodi:nodetypes="ccccccccccc" class="st0" d="    M213.5,347.7v-23.9h198.1V167.9H201.8v-23.6h240.4V512h-30.6V347.8L213.5,347.7z"/>
+		<path id="path3242_00000181088757353300118430000015315695738481553048_" class="st0" d="M280.2,64.5V0H69.8v512h93.5V278.8h95.4    v-65.1h-95.4V64.5H280.2z"/>
+	</g>
+</g>
 </svg>

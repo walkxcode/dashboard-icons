@@ -1,0 +1,33 @@
+name: Compress PNGs 🗜️
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+jobs:
+  compress_pngs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Install Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y zopfli
+
+      - name: Compress PNG Files
+        run: |
+          echo "Compressing PNGs..."
+          find png/ -iname "*.png" -print0 | xargs -0 -P 4 -I{} zopflipng -y {} {}
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.email "noreply@lammers.media"
+          git config --global user.name "Dashboard Icons Bot"
+          git add png/
+          git commit -m ":compression: Compressed PNGs" || exit 0
+          git pull --rebase
+          git push

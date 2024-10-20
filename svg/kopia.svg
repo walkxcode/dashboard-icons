@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" id="svg7" width="100" height="64" version="1.2" viewBox="0 0 100 64" xml:space="preserve"><title id="title2">kopia-svg</title><style id="style4">.s0{fill:#2a7fff}</style><path id="Shape 1" d="M 31.559412,16.139358 C 47.610515,-14.952629 89.10849,3.7025634 85.585075,31.478073 c 17.225575,2.487364 17.225575,32.750223 -1.95745,32.750223 -4.697881,0.414568 -19.646732,0.414568 -19.646732,0.414568 V 51.376951 L 72.202195,42.256632 58.180752,15.724805 43.187811,42.256632 51.800595,51.376951 V 64.642864 H 16.291289 c -18.4000456,0 -23.8809114,-31.921108 -2.348945,-37.310375 -0.782979,-7.462083 7.438319,-14.924163 17.225575,-11.193125 z" class="s0" style="fill:#2f80ff;fill-opacity:1;stroke:none;stroke-width:.448351;stroke-linejoin:round;stroke-dasharray:none"/><metadata id="metadata1000"/></svg>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg7" x="0px" y="0px" style="enable-background:new 0 0 512 512;" xml:space="preserve" viewBox="0.01 87.61 511.94 336.79">
+<style type="text/css">
+	.st0{fill:#2F80FF;}
+</style>
+<sodipodi:namedview bordercolor="#000000" borderopacity="0.25" id="namedview9" inkscape:current-layer="svg7" inkscape:cx="185.15077" inkscape:cy="191.32246" inkscape:deskcolor="#d1d1d1" inkscape:pagecheckerboard="true" inkscape:pageopacity="0.0" inkscape:showpageshadow="2" inkscape:window-height="801" inkscape:window-maximized="0" inkscape:window-width="1487" inkscape:window-x="0" inkscape:window-y="38" inkscape:zoom="0.72913551" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g>
+	<path id="Shape_1" sodipodi:nodetypes="ccccccccccsccc" class="st0" d="M164.4,171.7c83.6-162,299.8-64.8,281.5,79.9   c89.7,13,89.7,170.6-10.2,170.6c-24.5,2.2-102.4,2.2-102.4,2.2v-69.1l42.8-47.5l-73.1-138.2L225,307.8l44.9,47.5v69.1h-185   C-11,424.4-39.5,258.1,72.6,230c-4.1-38.9,38.8-77.8,89.7-58.3L164.4,171.7z"/>
+</g>
+</svg>

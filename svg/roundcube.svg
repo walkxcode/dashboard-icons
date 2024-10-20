@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="9.14 141.8 573.65 573.65"><style type="text/css">.st0{fill:#404f54}.st0,.st1,.st2,.st3{fill-rule:evenodd;clip-rule:evenodd}.st1{fill:#e5e5e5}.st2{fill:#ccc}.st3{fill:#37beff}</style><polygon points="582.79 549.77 295.96 384.1 295.96 207.27 582.79 372.95" class="st3"/><polygon points="9.14 549.77 295.96 384.1 295.96 207.27 9.14 372.95" class="st0"/><path d="M295.96,141.8c109.56,0,198.41,88.85,198.41,198.41c0,109.56-88.85,198.41-198.41,198.41 c-109.56,0-198.41-88.85-198.41-198.41C97.55,230.65,186.4,141.8,295.96,141.8" class="st2"/><path d="M295.96,141.8c109.6,0,198.48,88.85,198.48,198.41c0,109.56-88.88,198.41-198.48,198.41	c-62.91-42.34-88.94-127.64-88.94-198.3S233.05,184.22,295.96,141.8" class="st1"/><polygon points="582.79 372.95 295.96 538.62 295.96 715.45 582.79 549.77" class="st3"/><polygon points="9.14 372.95 295.96 538.62 295.96 715.45 9.14 549.77" class="st0"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" style="enable-background:new 0 0 512 512;" xml:space="preserve" viewBox="0 0 512 512">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#37BEFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#404F54;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#CCCCCC;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#E5E5E5;}
+</style>
+<g>
+	<path class="st0" d="M512,364.1L256,216.3V58.4l256,147.9V364.1z"/>
+	<path class="st1" d="M0,364.1l256-147.9V58.4L0,206.3V364.1z"/>
+	<path class="st2" d="M256,0c97.8,0,177.1,79.3,177.1,177.1S353.8,354.2,256,354.2S78.9,274.9,78.9,177.1S158.2,0,256,0"/>
+	<path class="st3" d="M256,0c97.8,0,177.1,79.3,177.1,177.1S353.8,354.2,256,354.2c-56.1-37.8-79.4-113.9-79.4-177S199.8,37.9,256,0   "/>
+	<path class="st0" d="M512,206.3L256,354.2V512l256-147.9V206.3z"/>
+	<path class="st1" d="M0,206.3l256,147.9V512L0,364.1V206.3z"/>
+</g>
+</svg>

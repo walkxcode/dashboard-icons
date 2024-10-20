@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="682.688" viewBox="2799 -911 512 682.688"><g stroke-width="32"><path fill="#211f20" d="m2799-911v341.344l256-170.656"/><path fill="#737373" d="m2799-569.656v341.344l256-170.656"/><path fill="#f1680d" d="m3055-740.344v341.344l256-170.656"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" style="enable-background:new 0 0 512 512;" xml:space="preserve" viewBox="69.8 0 372.4 512">
+<style type="text/css">
+	.st0{fill:#211F20;}
+	.st1{fill:#737373;}
+	.st2{fill:#F1680D;}
+</style>
+<g>
+	<path class="st0" d="M69.8,0v256L256,139.6"/>
+	<path class="st1" d="M69.8,256v256L256,372.4"/>
+	<path class="st2" d="M256,139.6v232.7L442.2,256"/>
+	<path d="M256,372.4V139.6L69.8,256L256,372.4z"/>
+</g>
+</svg>

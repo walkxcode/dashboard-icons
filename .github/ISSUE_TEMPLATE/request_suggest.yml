@@ -1,32 +1,34 @@
-name: "\U0001FA79 Requests & Suggestions"
+name: "🔍 Requests & Suggestions"
 description: Suggest an icon or request changes
-labels: "\U0001FA79 Requests & Suggestions"
+labels: "🔍 Requests & Suggestions"
 assignees: walkxcode
 body:
   - type: markdown
     attributes:
-      value: "Thank you for your interest in contributing to our icon repository! To ensure smooth collaboration, we've established clear guidelines for contributors.\n## 🌟 Icon Specifications\n\n- Icons should be provided in both `PNG` and `SVG` formats. Formats like `JPEG` or `WEBP` will not be accepted.\n  - If an `SVG` version is unavailable, a `PNG` version alone suffices.\n  - Conversely, if a `PNG` version is missing, it can be generated using [Ezgif SVG to PNG](https://github.com/walkxcode/dashboard-icons/blob/main/CONTRIBUTING.md#-converting-svg-to-png).\n\n- `PNG` files should have a height of exactly `512px` Width can vary, but a 1:1 aspect ratio is preferred.\n  - ❗ Exceptions for upscales will be made only if the correct or a downscaled version cannot be obtained.\n  - Downsizing can be accomplished using [iLoveIMG Resize](https://github.com/walkxcode/dashboard-icons/blob/main/CONTRIBUTING.md#-downscaling-pngs).\n\n- Icons should be named using the [Kebab Case](https://wiki.c2.com/?KebabCase) convention, reflecting their full name. For instance, \"Facebook Messenger\" should be named `facebook-messenger.png`.\n\n- Monochrome icons should default to a dark version. Light versions should be named `name-light.png`. If a light version is absent, utilize [https://pinetools.com/colorize-image](https://pinetools.com/colorize-image) to adjust its color.\n"
+      value: |
+        Thank you for your interest in contributing to our icon repository! To ensure smooth collaboration, please make sure to read and agree to our [Contribution Guidelines](https://github.com/walkxcode/dashboard-icons/blob/main/CONTRIBUTING.md) before submitting your request.
+
   - type: checkboxes
     attributes:
       label: Contribution Guidelines
       options:
-        - label: I have read and agree to the [Contribution Guidelines](https://github.com/walkxcode/dashboard-icons/blob/main/CONTRIBUTING.md)
+        - label: "I have read and agree to the [Contribution Guidelines](https://github.com/walkxcode/dashboard-icons/blob/main/CONTRIBUTING.md)"
           required: true
+
   - type: textarea
     id: icon-name
     attributes:
       label: Icon Name
-      description: What is the name of the icon you are contributing?
+      description: What is the name of the icon you are requesting or suggesting?
       placeholder: Enter icon name here
     validations:
       required: true
+
   - type: textarea
-    id: icons
+    id: icon-details
     attributes:
-      label: Icon(s)
-      description: >-
-        Upload your icons here. You can do this by Copy-Pasting or Drag &
-        Dropping the images.
-      placeholder: Copy-Paste or Drag & Drop images here!
+      label: Icon Details
+      description: Provide any additional details or context for the icon request.
+      placeholder: Enter details here
     validations:
       required: false

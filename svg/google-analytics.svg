@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 301112 333331" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"><path d="M301110 291619c124 22886-18333 41521-41206 41644-1700 14-3415-82-5101-288-21227-3140-36776-21611-36256-43057V43342c-507-21474 15084-39944 36324-43057 22721-2660 43304 13602 45964 36324 192 1673 288 3346 274 5032v249977z" fill="#f9ab00"/><path d="M41288 250756c22804 0 41288 18484 41288 41288s-18484 41288-41288 41288S0 314848 0 292044s18484-41288 41288-41288zm108630-125126c-22913 1261-40685 20472-40150 43413v110892c0 30099 13246 48364 32649 52258 22393 4539 44209-9928 48748-32320 562-2743 836-5526 822-8323V167124c41-22886-18470-41467-41356-41507-233 0-480 0-713 14z" fill="#e37400"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg4243" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" sodipodi:docname="Analytics_1.svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
+	 style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F8AB00;}
+	.st1{fill:#E37300;}
+</style>
+<g id="g6628" transform="matrix(3.5485559,0,0,3.5485559,-174.94921,-339.18037)">
+	<path id="path3806" class="st0" d="M149.3,112.8V221c0,12.1,8.4,18.9,17.2,18.9c8.2,0,17.2-5.7,17.2-18.9V113.6
+		c0-11.1-8.2-18-17.2-18S149.3,103.2,149.3,112.8z"/>
+	<path id="path3808" class="st1" d="M104.2,167.7V221c0,12.1,8.4,18.9,17.2,18.9c8.2,0,17.2-5.7,17.2-18.9v-52.5
+		c0-11.1-8.2-18-17.2-18C112.4,150.5,104.2,158.2,104.2,167.7L104.2,167.7z"/>
+	<path id="path3810" class="st1" d="M93.6,222.7c0,9.5-7.7,17.2-17.2,17.2s-17.2-7.7-17.2-17.2c0-9.5,7.7-17.2,17.2-17.2
+		S93.6,213.1,93.6,222.7"/>
+</g>
+</svg>

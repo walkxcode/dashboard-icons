@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" version="1.1" viewBox="0 0 80 80"><title>logo@2x</title><desc>Created with Sketch.</desc><g id="logo" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><rect id="Rectangle" width="80" height="80" x="0" y="0" fill="#FFF" rx="20"/><g id="Group-10" transform="translate(12.000000, 12.000000)"><g id="Group-9"><g id="Group-8"><g id="Group-7"><path id="Path" fill="#68BC71" d="M28.2221276,0 C19.4007575,0 8.75997994,2.07442553 8.65485005e-06,6.64038298 C8.65485005e-06,16.501617 -0.120909272,41.0689362 28.2221276,57.855 C56.5657909,41.0689362 56.4454995,16.501617 56.4454995,6.64038298 C47.6849017,2.07442553 37.0441241,0 28.2221276,0 L28.2221276,0 Z"/><path id="Combined-Shape" fill="#67B279" d="M28.1932991,57.8379179 C-0.120827266,41.0522735 8.65485006e-06,16.4982725 8.65485006e-06,6.64038298 C8.75043947,2.07939831 19.3775821,0.00452145957 28.1932991,7.38217799e-06 L28.1932991,57.8379237 Z"/></g><path id="Fill-11" fill="#FFF" d="M27.1926958,38.6027397 L44.2590846,15.6010416 C43.0084943,14.5986526 41.911548,15.3061181 41.3076915,15.8538333 L41.2856573,15.8555888 L27.0557264,30.6585285 L21.6942672,24.2064902 C19.1365123,21.2514028 15.6592758,23.5054616 14.8469876,24.1011604 L27.1926958,38.6027397"/></g></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#68BC71;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#67B279;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<g id="logo">
+	<g id="Group-10" transform="translate(12.000000, 12.000000)">
+		<g id="Group-9">
+			<g id="Group-8">
+				<g id="Group-7">
+					<path id="Path" class="st0" d="M244-12C165.9-12,71.8,6.4-5.8,46.8C-5.8,134-6.8,351.4,244,500
+						C494.8,351.4,493.8,134,493.8,46.8C416.2,6.4,322.1-12,244-12L244-12z"/>
+					<path id="Combined-Shape" class="st1" d="M243.7,499.8C-6.8,351.3-5.8,134-5.8,46.8C71.7,6.4,165.7-12,243.7-12
+						C243.7-12,243.7,499.8,243.7,499.8z"/>
+				</g>
+				<path id="Fill-11" class="st2" d="M234.9,329.6l151-203.6c-11.1-8.9-20.8-2.6-26.1,2.2l-0.2,0l-125.9,131l-47.4-57.1
+					c-22.6-26.2-53.4-6.2-60.6-0.9L234.9,329.6"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

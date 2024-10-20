@@ -1,0 +1,31 @@
+name: Generate Icons Page 🚀
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build_icons_page:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Generate ICONS.md
+        run: python scripts/generate_icons_page.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.email "noreply@lammers.media"
+          git config --global user.name "Dashboard Icons Bot"
+          git add ICONS.md
+          git commit -m ":construction_worker: Generate ICONS.md" || exit 0
+          git push

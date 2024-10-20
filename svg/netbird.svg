@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="41" height="30" fill="none" viewBox="0 0 41 30"><path fill="#F68330" d="M28.5735 0C23.7203 0.445248 21.3049 3.23918 20.3921 4.65284L6.21094 29.2194H23.3196L40.1945 0H28.5735Z"/><path fill="#F68330" d="M23.331 29.2198L0 4.47517C0 4.47517 26.381 -2.6154 28.9523 19.5023L23.331 29.2198Z"/><path fill="#F35E32" d="M19.8683 5.56728L12.7109 17.9674L23.319 29.2211L28.9402 19.4813C28.0497 11.8787 24.343 7.72674 19.8683 5.55615"/></svg>
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg1203" x="0px" y="0px" style="enable-background:new 0 0 512 512;" xml:space="preserve" viewBox="0.02 69.9 512 372.2">
+<style type="text/css">
+	.st0{fill:#F68330;}
+	.st1{fill:#F35E32;}
+</style>
+<sodipodi:namedview bordercolor="#666666" borderopacity="1.0" id="namedview1205" inkscape:current-layer="layer1" inkscape:cx="334.86637" inkscape:cy="27.993009" inkscape:document-units="mm" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-global="false" inkscape:window-height="1335" inkscape:window-maximized="1" inkscape:window-width="2560" inkscape:window-x="1920" inkscape:window-y="0" inkscape:zoom="1.4289282" pagecolor="#ffffff" showgrid="false" units="px" width="650px">
+	</sodipodi:namedview>
+<defs>
+	
+		<inkscape:path-effect apply_no_radius="true" apply_with_radius="true" chamfer_steps="1" effect="fillet_chamfer" flexible="false" hide_knots="false" id="path-effect57379" is_visible="true" lpeversion="1" method="auto" mode="F" only_selected="false" radius="17" satellites_param="F,0,0,1,0,4.4979167,0,1 @ F,0,0,1,0,4.4979167,0,1 @ F,0,0,1,0,4.4979167,0,1 @ F,0,0,1,0,4.4979167,0,1" unit="px" use_knot_distance="true">
+		</inkscape:path-effect>
+</defs>
+<g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1">
+	
+		<g id="g23427" transform="translate(-0.38486311,1.9008189)" inkscape:export-filename="/home/braginini/Downloads/netbird-logo-dark.png" inkscape:export-xdpi="329.58896" inkscape:export-ydpi="329.58896">
+		<path id="path30" class="st0" d="M364.3,68c-61.8,5.7-92.5,41.3-104.1,59.3l-5.2,9.1c-0.4,0.8-0.6,1.3-0.6,1.3l-0.1-0.1    L79.5,440.2h218L512.4,68H364.3"/>
+		<path id="path32" class="st0" d="M297.5,440.2L0.4,125c0,0,336-90.2,368.7,191.4L297.5,440.2"/>
+		<path id="path34" class="st1" d="M253.5,138.9l-91.2,157.9l135.2,143.4l71.6-124C357.8,219.3,310.6,166.5,253.5,138.9"/>
+	</g>
+</g>
+</svg>

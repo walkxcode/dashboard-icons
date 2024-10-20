@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" id="svg4485" width="209" height="334" version="1.1" viewBox="0 0 209 334"><metadata id="metadata4491"/><g id="g4612" transform="translate(-152,-89)"><path id="path4495" d="M 235,89 V 423 H 152 V 115 l 26,-26 z" style="opacity:1;fill:#fba457;fill-opacity:1;stroke:#009bff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.17587938"/><circle id="path4497" cx="178" cy="115" r="26" style="opacity:1;fill:#fba457;fill-opacity:1;stroke:#009bff;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.17587938"/><circle id="path4497-0" cx="335" cy="230" r="26" style="opacity:1;fill:#fba457;fill-opacity:1;stroke:#009bff;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.17587938"/><path id="path4516" d="M 277,256 V 89 l 84,3e-6 L 361.00002,230 335,256 Z" style="fill:#fba457;fill-opacity:1;stroke:#000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/><circle id="path4497-0-6" cx="335" cy="397" r="26" style="opacity:1;fill:#fba457;fill-opacity:1;stroke:#009bff;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.17587938"/><path id="path4516-5" d="m 277,423 v -83 h 84 l 2e-5,57 L 335,423 Z" style="opacity:1;fill:#fba457;fill-opacity:1;stroke:#000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/></g></svg>
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg4485" x="0px" y="0px" style="enable-background:new 0 0 512 512;" xml:space="preserve" viewBox="95.85 -0.03 320.31 512.05">
+<style type="text/css">
+	.st0{fill:#FBA457;}
+</style>
+<sodipodi:namedview bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview4487" inkscape:current-layer="g4612" inkscape:cx="305.99333" inkscape:cy="304.30809" inkscape:document-rotation="0" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="1410" inkscape:window-maximized="0" inkscape:window-width="1274" inkscape:window-x="1280" inkscape:window-y="22" inkscape:zoom="1.2636719" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g id="g4612">
+	<g id="g850" transform="matrix(0.99659595,0,0,0.99659595,0.37313949,0.87143746)">
+		<path id="path4497" class="st0" d="M135.8-0.9c-22.1,0-40,17.9-40,40c0,0,0,0,0,0v473.8h127.7V-0.9L135.8-0.9z"/>
+		<path id="path4516" class="st0" d="M288-0.9V256h89.2c22.1,0,40-17.9,40-40V-0.9H288z"/>
+		<path id="path4516-5" class="st0" d="M288,385.2v127.7h89.2c22.1,0,40-17.9,40-40l0,0v-87.7H288z"/>
+	</g>
+</g>
+</svg>

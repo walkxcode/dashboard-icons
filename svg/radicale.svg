@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="300"><path fill="#a40000" d="M 186,188 C 184,98 34,105 47,192 C 59,279 130,296 130,296 C 130,296 189,277 186,188 z"/><path fill="#fff" d="M 73,238 C 119,242 140,241 177,222 C 172,270 131,288 131,288 C 131,288 88,276 74,238 z"/><g fill="none" stroke="#4e9a06" stroke-width="15"><path d="M 103,137 C 77,69 13,62 13,62"/><path d="M 105,136 C 105,86 37,20 37,20"/><path d="M 105,135 C 112,73 83,17 83,17"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" style="enable-background:new 0 0 284 284;" xml:space="preserve" viewBox="47.9 -3 180.61 286.5">
+<style type="text/css">
+	.st0{fill:#A40000;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#4E9A06;stroke-width:15;}
+</style>
+<g>
+	<path class="st0" d="M228.4,175.5c-2-90-152-83-139,4c12,87,83,104,83,104S231.4,264.5,228.4,175.5z"/>
+	<path class="st1" d="M115.4,225.5c46,4,67,3,104-16c-5,48-46,66-46,66s-43-12-57-50H115.4z"/>
+	<g>
+		<path class="st2" d="M145.4,124.5c-26-68-90-75-90-75"/>
+		<path class="st2" d="M147.4,123.5c0-50-68-116-68-116"/>
+		<path class="st2" d="M147.4,122.5c7-62-22-118-22-118"/>
+	</g>
+</g>
+</svg>
