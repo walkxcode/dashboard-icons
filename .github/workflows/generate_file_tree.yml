@@ -10,10 +10,14 @@ on:
 jobs:
   generate_file_tree:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref_name }}
 
       - name: Set Up Python
         uses: actions/setup-python@v4
@@ -29,4 +33,5 @@ jobs:
           git config --global user.name "Dashboard Icons Bot"
           git add ../tree.json
           git commit -m ":construction_worker: Generate file tree" || exit 0
-          git push
+          git pull --rebase origin ${{ github.ref_name }}
+          git push origin HEAD:${{ github.ref_name }}

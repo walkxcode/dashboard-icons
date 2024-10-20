@@ -1,4 +1,4 @@
-name: Convert SVG Assets 🔄
+name: Convert SVG Assets ♻️
 
 on:
   push:
@@ -10,10 +10,14 @@ on:
 jobs:
   convert_assets:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref_name }}
 
       - name: Set Up Python
         uses: actions/setup-python@v4
@@ -32,5 +36,6 @@ jobs:
           git config --global user.email "noreply@lammers.media"
           git config --global user.name "Dashboard Icons Bot"
           git add png/ webp/
-          git commit -m ":counterclockwise_arrows: Convert SVG assets to PNG and WEBP" || exit 0
-          git push
+          git commit -m ":recycle: Convert SVG assets to PNG and WEBP" || exit 0
+          git pull --rebase origin ${{ github.ref_name }}
+          git push origin HEAD:${{ github.ref_name }}

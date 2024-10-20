@@ -12,10 +12,14 @@ on:
 jobs:
   compress_pngs:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref_name }}
 
       - name: Install Dependencies
         run: |
@@ -33,5 +37,5 @@ jobs:
           git config --global user.name "Dashboard Icons Bot"
           git add png/
           git commit -m ":compression: Compressed PNGs" || exit 0
-          git pull --rebase
-          git push
+          git pull --rebase origin ${{ github.ref_name }}
+          git push origin HEAD:${{ github.ref_name }}
