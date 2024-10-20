@@ -3,10 +3,6 @@ name: Compress PNGs 🗜️
 on:
   schedule:
     - cron: "0 0 * * 0"
-  push:
-    branches:
-      - main
-      - dev
   workflow_dispatch:
 
 jobs:
