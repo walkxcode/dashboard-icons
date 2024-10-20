@@ -58,7 +58,7 @@ jobs:
           python-version: "3.9"
 
       - name: Generate File Tree 🌳
-        run: python scripts/generate_folder_tree.py svg png webp
+        run: python scripts/generate_file_tree.py svg png webp
 
       - name: Commit and Push Changes 📤
         run: |
