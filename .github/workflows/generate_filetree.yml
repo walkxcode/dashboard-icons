@@ -1,0 +1,31 @@
+name: 🌴 Generate File Tree
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+          architecture: "x64"
+
+      - name: Generate File Tree
+        run: python config/tree.py svg png
+
+      - name: Load to GitHub
+        run: |-
+          git diff
+          git config --global user.email "noreply@lammers.media"
+          git config --global user.name "Dashboard Icons Bot"
+          git add file_tree.json
+          git commit -m ":construction_worker: Generates file_tree.json" || exit 0
+          git push
